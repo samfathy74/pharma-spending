@@ -1,0 +1,830 @@
+ID,Location,Country,Flag,Time,PC_HEALTHXP,PC_GDP,USD_CAP,TOTAL_SPEND
+37,AUS,Australia,https://flagicons.lipis.dev/flags/4x3/au.svg,1985,9.56,0.58,84.134,1325.78
+105,BEL,Belgium,https://flagicons.lipis.dev/flags/4x3/be.svg,1985,15.684,1.074,149.946,1478.21
+150,CAN,Canada,https://flagicons.lipis.dev/flags/4x3/ca.svg,1985,10.061,0.763,124.336,3225.52
+185,CHE,Switzerland,https://flagicons.lipis.dev/flags/4x3/ch.svg,1985,11.592,0.808,171.227,1107.9
+219,DEU,Germany,https://flagicons.lipis.dev/flags/4x3/de.svg,1985,14.302,1.213,200.236,15555.31
+293,DNK,Denmark,https://flagicons.lipis.dev/flags/4x3/dk.svg,1985,6.864,0.546,79.733,407.73
+300,ESP,Spain,https://flagicons.lipis.dev/flags/4x3/es.svg,1985,21.034,1.061,100.491,3865.84
+384,FIN,Finland,https://flagicons.lipis.dev/flags/4x3/fi.svg,1985,10.174,0.677,90.468,443.49
+413,FRA,France,https://flagicons.lipis.dev/flags/4x3/fr.svg,1985,16.577,1.267,167.728,9526.23
+446,GBR,United Kingdom,https://flagicons.lipis.dev/flags/4x3/gb.svg,1985,15.008,0.771,94.335,5334.67
+500,IRL,Ireland,https://flagicons.lipis.dev/flags/4x3/ie.svg,1985,10.539,0.72,66.917,236.76
+575,ISL,Norway,https://flagicons.lipis.dev/flags/4x3/ic.svg,1985,17.414,1.168,200.058,48.3
+645,JPN,Japan,https://flagicons.lipis.dev/flags/4x3/jp.svg,1985,17.973,1.163,155.171,18737.52
+660,KOR,South Korea,https://flagicons.lipis.dev/flags/4x3/kr.svg,1985,21.788,0.723,32.732,1335.65
+792,NLD,Netherlands,https://flagicons.lipis.dev/flags/4x3/nl.svg,1985,9.595,0.636,90.174,1306.77
+829,NOR,Norway,https://flagicons.lipis.dev/flags/4x3/no.svg,1985,10.661,0.584,86.65,359.82
+854,NZL,New Zealand,https://flagicons.lipis.dev/flags/4x3/ne.svg,1985,13.308,0.657,81.54,264.77
+910,PRT,Portugal,https://flagicons.lipis.dev/flags/4x3/pt.svg,1985,25.954,1.393,106.172,1064.23
+970,SWE,Sweden,https://flagicons.lipis.dev/flags/4x3/se.svg,1985,7.671,0.564,88.457,738.65
+1012,TUR,Turkey,https://flagicons.lipis.dev/flags/4x3/tr.svg,1985,13.889,0.207,12.302,604.45
+38,AUS,Australia,https://flagicons.lipis.dev/flags/4x3/au.svg,1986,9.568,0.599,89.94,1440.69
+104,BEL,Belgium,https://flagicons.lipis.dev/flags/4x3/be.svg,1986,15.708,1.102,159.833,1576.24
+151,CAN,Canada,https://flagicons.lipis.dev/flags/4x3/ca.svg,1986,10.756,0.842,141.554,3709.28
+186,CHE,Switzerland,https://flagicons.lipis.dev/flags/4x3/ch.svg,1986,12.105,0.865,189.428,1232.06
+218,DEU,Germany,https://flagicons.lipis.dev/flags/4x3/de.svg,1986,14.357,1.203,206.996,16087.82
+268,DNK,Denmark,https://flagicons.lipis.dev/flags/4x3/dk.svg,1986,7.276,0.563,87.9,450.09
+301,ESP,Spain,https://flagicons.lipis.dev/flags/4x3/es.svg,1986,19.646,0.983,97.807,3773.85
+385,FIN,Finland,https://flagicons.lipis.dev/flags/4x3/fi.svg,1986,10.079,0.681,95.015,467.3
+447,GBR,United Kingdom,https://flagicons.lipis.dev/flags/4x3/gb.svg,1986,15.07,0.772,99.163,5620.7
+521,IRL,Ireland,https://flagicons.lipis.dev/flags/4x3/ie.svg,1986,11.044,0.744,70.226,248.58
+584,ISL,Iceland,https://flagicons.lipis.dev/flags/4x3/ic.svg,1986,16.508,1.182,217.823,52.97
+642,JPN,Japan,https://flagicons.lipis.dev/flags/4x3/jp.svg,1986,18.892,1.214,169.011,20533.48
+659,KOR,South Korea,https://flagicons.lipis.dev/flags/4x3/kr.svg,1986,21.817,0.696,35.443,1460.74
+793,NLD,Netherlands,https://flagicons.lipis.dev/flags/4x3/nl.svg,1986,9.969,0.67,98.99,1442.51
+828,NOR,Norway,https://flagicons.lipis.dev/flags/4x3/no.svg,1986,10.51,0.622,97.607,406.76
+855,NZL,New Zealand,https://flagicons.lipis.dev/flags/4x3/ne.svg,1986,14.491,0.73,95.976,311.57
+922,PRT,Portugal,https://flagicons.lipis.dev/flags/4x3/pt.svg,1986,23.01,1.365,110.418,1107.79
+971,SWE,Sweden,https://flagicons.lipis.dev/flags/4x3/se.svg,1986,7.933,0.565,92.603,775.07
+1013,TUR,Turkey,https://flagicons.lipis.dev/flags/4x3/tr.svg,1986,12.403,0.228,14.455,724.61
+39,AUS,Australia,https://flagicons.lipis.dev/flags/4x3/au.svg,1987,9.543,0.582,93.578,1521.94
+107,BEL,Belgium,https://flagicons.lipis.dev/flags/4x3/be.svg,1987,15.952,1.136,172.74,1704.98
+133,CAN,Canada,https://flagicons.lipis.dev/flags/4x3/ca.svg,1987,11.058,0.859,152.165,4039.98
+183,CHE,Switzerland,https://flagicons.lipis.dev/flags/4x3/ch.svg,1987,10.344,0.76,172.362,1128.13
+217,DEU,Germany,https://flagicons.lipis.dev/flags/4x3/de.svg,1987,14.592,1.237,221.093,17209.86
+267,DNK,Denmark,https://flagicons.lipis.dev/flags/4x3/dk.svg,1987,6.888,0.555,88.986,456.23
+302,ESP,Spain,https://flagicons.lipis.dev/flags/4x3/es.svg,1987,19.317,0.98,105.265,4072.16
+386,FIN,Finland,https://flagicons.lipis.dev/flags/4x3/fi.svg,1987,10.069,0.694,102.609,506.08
+434,GBR,United Kingdom,https://flagicons.lipis.dev/flags/4x3/gb.svg,1987,14.468,0.749,103.709,5890.88
+520,IRL,Ireland,https://flagicons.lipis.dev/flags/4x3/ie.svg,1987,11.546,0.744,75.344,266.72
+574,ISL,Iceland,https://flagicons.lipis.dev/flags/4x3/ic.svg,1987,15.35,1.125,228.429,56.16
+628,JPN,Japan,https://flagicons.lipis.dev/flags/4x3/jp.svg,1987,20.271,1.305,192.985,23561.73
+658,KOR,South Korea,https://flagicons.lipis.dev/flags/4x3/kr.svg,1987,21.843,0.679,39.471,1642.85
+794,NLD,Netherlands,https://flagicons.lipis.dev/flags/4x3/nl.svg,1987,10.399,0.71,108.992,1598.37
+827,NOR,Norway,https://flagicons.lipis.dev/flags/4x3/no.svg,1987,10.322,0.635,103.549,433.55
+869,NZL,New Zealand,https://flagicons.lipis.dev/flags/4x3/ne.svg,1987,14.699,0.819,109.193,357.54
+921,PRT,Portugal,https://flagicons.lipis.dev/flags/4x3/pt.svg,1987,25.339,1.462,129.032,1294.19
+973,SWE,Sweden,https://flagicons.lipis.dev/flags/4x3/se.svg,1987,8.143,0.586,101.523,852.57
+1014,TUR,Turkey,https://flagicons.lipis.dev/flags/4x3/tr.svg,1987,13.333,0.253,17.667,902.8
+40,AUS,Australia,https://flagicons.lipis.dev/flags/4x3/au.svg,1988,9.823,0.595,102.027,1686.73
+91,BEL,Belgium,https://flagicons.lipis.dev/flags/4x3/be.svg,1988,16.479,1.174,192.778,1908.82
+153,CAN,Canada,https://flagicons.lipis.dev/flags/4x3/ca.svg,1988,11.383,0.884,167.067,4493.27
+178,CHE,Switzerland,https://flagicons.lipis.dev/flags/4x3/ch.svg,1988,10.682,0.79,190.12,1253.53
+216,DEU,Germany,https://flagicons.lipis.dev/flags/4x3/de.svg,1988,14.634,1.267,241.921,18904.82
+273,DNK,Denmark,https://flagicons.lipis.dev/flags/4x3/dk.svg,1988,7.33,0.6,99.611,510.96
+311,ESP,Spain,https://flagicons.lipis.dev/flags/4x3/es.svg,1988,18.402,1.039,121.057,4693.01
+387,FIN,Finland,https://flagicons.lipis.dev/flags/4x3/fi.svg,1988,9.968,0.668,107.207,530.3
+439,GBR,United Kingdom,https://flagicons.lipis.dev/flags/4x3/gb.svg,1988,14.664,0.746,112.847,6424.19
+451,GRC,Greece,https://flagicons.lipis.dev/flags/4x3/gr.svg,1988,15.393,0.844,101.924,1023.01
+519,IRL,Ireland,https://flagicons.lipis.dev/flags/4x3/ie.svg,1988,12.019,0.737,81.637,287.77
+572,ISL,Iceland,https://flagicons.lipis.dev/flags/4x3/ic.svg,1988,14.692,1.162,240.078,459.96
+587,ITA,Italy,https://flagicons.lipis.dev/flags/4x3/it.svg,1988,23.07,1.539,251.631,14249.68
+617,JPN,Japan,https://flagicons.lipis.dev/flags/4x3/jp.svg,1988,20.631,1.268,207.202,25405.66
+657,KOR,South Korea,https://flagicons.lipis.dev/flags/4x3/kr.svg,1988,21.54,0.699,46.594,1958.4
+795,NLD,Netherlands,https://flagicons.lipis.dev/flags/4x3/nl.svg,1988,10.472,0.707,115.517,1705.04
+826,NOR,Norway,https://flagicons.lipis.dev/flags/4x3/no.svg,1988,7.712,0.485,81.21,341.85
+857,NZL,New Zealand,https://flagicons.lipis.dev/flags/4x3/ne.svg,1988,14.213,0.871,119.077,390.98
+906,PRT,Portugal,https://flagicons.lipis.dev/flags/4x3/pt.svg,1988,23.255,1.397,137.375,1376.44
+974,SWE,Sweden,https://flagicons.lipis.dev/flags/4x3/se.svg,1988,7.585,0.54,98.76,833.19
+41,AUS,Australia,https://flagicons.lipis.dev/flags/4x3/au.svg,1989,10.199,0.623,111.197,1869.71
+92,BEL,Belgium,https://flagicons.lipis.dev/flags/4x3/be.svg,1989,16.231,1.147,201.741,2004.84
+154,CAN,Canada,https://flagicons.lipis.dev/flags/4x3/ca.svg,1989,11.691,0.932,183.938,5036.04
+164,CHE,Switzerland,https://flagicons.lipis.dev/flags/4x3/ch.svg,1989,10.326,0.766,198.234,1317.64
+215,DEU,Germany,https://flagicons.lipis.dev/flags/4x3/de.svg,1989,14.819,1.195,243.328,19162.39
+266,DNK,Denmark,https://flagicons.lipis.dev/flags/4x3/dk.svg,1989,7.023,0.566,98.15,503.76
+304,ESP,Spain,https://flagicons.lipis.dev/flags/4x3/es.svg,1989,18.798,1.084,137.413,5335.44
+368,FIN,Finland,https://flagicons.lipis.dev/flags/4x3/fi.svg,1989,9.812,0.661,115.48,573.29
+432,GBR,United Kingdom,https://flagicons.lipis.dev/flags/4x3/gb.svg,1989,14.777,0.744,119.66,6829.8
+452,GRC,Greece,https://flagicons.lipis.dev/flags/4x3/gr.svg,1989,14.147,0.851,110.191,1111.77
+518,IRL,Ireland,https://flagicons.lipis.dev/flags/4x3/ie.svg,1989,12.994,0.748,91.424,320.99
+571,ISL,Iceland,https://flagicons.lipis.dev/flags/4x3/ic.svg,1989,15.347,1.187,252.262,63.78
+612,ITA,Italy,https://flagicons.lipis.dev/flags/4x3/it.svg,1989,23.294,1.551,272.149,15423.17
+618,JPN,Japan,https://flagicons.lipis.dev/flags/4x3/jp.svg,1989,22.319,1.317,234.663,28890.77
+656,KOR,South Korea,https://flagicons.lipis.dev/flags/4x3/kr.svg,1989,21.901,0.817,59.994,2546.69
+796,NLD,Netherlands,https://flagicons.lipis.dev/flags/4x3/nl.svg,1989,9.973,0.69,121.613,1805.82
+825,NOR,Norway,https://flagicons.lipis.dev/flags/4x3/no.svg,1989,8.141,0.498,87.135,368.31
+858,NZL,New Zealand,https://flagicons.lipis.dev/flags/4x3/ne.svg,1989,14.344,0.9,128.515,424.0
+907,PRT,Portugal,https://flagicons.lipis.dev/flags/4x3/pt.svg,1989,24.267,1.344,146.308,1463.81
+975,SWE,Sweden,https://flagicons.lipis.dev/flags/4x3/se.svg,1989,8.6,0.617,119.607,1015.82
+42,AUS,Australia,https://flagicons.lipis.dev/flags/4x3/au.svg,1990,10.474,0.677,120.773,2061.0
+59,AUT,Austria,https://flagicons.lipis.dev/flags/4x3/at.svg,1990,10.131,0.784,152.003,1167.06
+89,BEL,Belgium,https://flagicons.lipis.dev/flags/4x3/be.svg,1990,15.52,1.103,206.956,2062.81
+152,CAN,Canada,https://flagicons.lipis.dev/flags/4x3/ca.svg,1990,11.914,1.0,201.819,5608.75
+160,CHE,Switzerland,https://flagicons.lipis.dev/flags/4x3/ch.svg,1990,10.549,0.777,213.748,1435.43
+187,CZE,Czech Republic,https://flagicons.lipis.dev/flags/4x3/cz.svg,1990,24.212,0.908,114.502,1183.19
+214,DEU,Germany,https://flagicons.lipis.dev/flags/4x3/de.svg,1990,14.709,1.181,258.39,20524.7
+264,DNK,Denmark,https://flagicons.lipis.dev/flags/4x3/dk.svg,1990,7.621,0.613,111.578,573.62
+305,ESP,Spain,https://flagicons.lipis.dev/flags/4x3/es.svg,1990,18.556,1.132,154.269,5996.02
+377,FIN,Finland,https://flagicons.lipis.dev/flags/4x3/fi.svg,1990,9.864,0.715,129.76,647.04
+412,FRA,France,https://flagicons.lipis.dev/flags/4x3/fr.svg,1990,17.282,1.375,244.051,14280.11
+429,GBR,United Kingdom,https://flagicons.lipis.dev/flags/4x3/gb.svg,1990,14.485,0.737,123.408,7064.81
+454,GRC,Greece,https://flagicons.lipis.dev/flags/4x3/gr.svg,1990,14.942,0.907,120.531,1229.03
+517,IRL,Ireland,https://flagicons.lipis.dev/flags/4x3/ie.svg,1990,12.777,0.717,98.423,345.86
+570,ISL,Iceland,https://flagicons.lipis.dev/flags/4x3/ic.svg,1990,13.98,1.032,228.449,58.21
+611,ITA,Italy,https://flagicons.lipis.dev/flags/4x3/it.svg,1990,21.43,1.503,278.813,15814.06
+619,JPN,Japan,https://flagicons.lipis.dev/flags/4x3/jp.svg,1990,21.422,1.23,239.226,29553.26
+655,KOR,South Korea,https://flagicons.lipis.dev/flags/4x3/kr.svg,1990,21.635,0.796,65.887,2824.53
+797,NLD,Netherlands,https://flagicons.lipis.dev/flags/4x3/nl.svg,1990,10.168,0.72,136.103,2034.95
+814,NOR,Norway,https://flagicons.lipis.dev/flags/4x3/no.svg,1990,7.659,0.542,99.867,423.58
+853,NZL,New Zealand,https://flagicons.lipis.dev/flags/4x3/ne.svg,1990,13.751,0.917,133.933,445.97
+908,PRT,Portugal,https://flagicons.lipis.dev/flags/4x3/pt.svg,1990,25.305,1.396,164.162,1638.87
+976,SWE,Sweden,https://flagicons.lipis.dev/flags/4x3/se.svg,1990,8.628,0.626,125.815,1076.83
+1019,TUR,Turkey,https://flagicons.lipis.dev/flags/4x3/tr.svg,1990,22.021,0.54,43.847,2364.3
+23,AUS,Australia,https://flagicons.lipis.dev/flags/4x3/au.svg,1991,10.937,0.739,134.356,2322.21
+60,AUT,Austria,https://flagicons.lipis.dev/flags/4x3/at.svg,1991,10.001,0.78,160.118,1241.7
+83,BEL,Belgium,https://flagicons.lipis.dev/flags/4x3/be.svg,1991,15.597,1.157,227.548,2276.5
+134,CAN,Canada,https://flagicons.lipis.dev/flags/4x3/ca.svg,1991,12.135,1.102,222.113,6257.3
+163,CHE,Switzerland,https://flagicons.lipis.dev/flags/4x3/ch.svg,1991,10.106,0.805,223.999,1523.19
+188,CZE,Czech Republic,https://flagicons.lipis.dev/flags/4x3/cz.svg,1991,21.496,0.836,96.461,994.38
+258,DNK,Denmark,https://flagicons.lipis.dev/flags/4x3/dk.svg,1991,8.145,0.647,123.085,634.42
+366,FIN,Finland,https://flagicons.lipis.dev/flags/4x3/fi.svg,1991,10.343,0.86,150.883,756.49
+406,FRA,France,https://flagicons.lipis.dev/flags/4x3/fr.svg,1991,17.702,1.448,266.943,15632.0
+420,GBR,United Kingdom,https://flagicons.lipis.dev/flags/4x3/gb.svg,1991,14.7,0.806,137.486,7895.12
+476,GRC,Greece,https://flagicons.lipis.dev/flags/4x3/gr.svg,1991,17.082,1.012,141.532,1460.6
+498,HUN,Hungary,https://flagicons.lipis.dev/flags/4x3/hu.svg,1991,30.084,1.918,158.865,1647.97
+531,IRL,Ireland,https://flagicons.lipis.dev/flags/4x3/ie.svg,1991,11.995,0.727,104.543,369.48
+569,ISL,Iceland,https://flagicons.lipis.dev/flags/4x3/ic.svg,1991,12.775,0.966,217.79,56.15
+610,ITA,Italy,https://flagicons.lipis.dev/flags/4x3/it.svg,1991,20.922,1.517,294.948,16740.81
+643,JPN,Japan,https://flagicons.lipis.dev/flags/4x3/jp.svg,1991,22.868,1.323,273.505,33893.01
+662,KOR,South Korea,https://flagicons.lipis.dev/flags/4x3/kr.svg,1991,21.727,0.765,71.465,3094.13
+778,NLD,Netherlands,https://flagicons.lipis.dev/flags/4x3/nl.svg,1991,10.144,0.737,146.213,2203.4
+824,NOR,Norway,https://flagicons.lipis.dev/flags/4x3/no.svg,1991,7.799,0.573,112.003,477.33
+856,NZL,New Zealand,https://flagicons.lipis.dev/flags/4x3/ne.svg,1991,14.071,0.999,145.548,508.7
+911,PRT,Portugal,https://flagicons.lipis.dev/flags/4x3/pt.svg,1991,24.786,1.497,190.3,1895.43
+977,SWE,Sweden,https://flagicons.lipis.dev/flags/4x3/se.svg,1991,9.154,0.663,135.181,1164.91
+28,AUS,Australia,https://flagicons.lipis.dev/flags/4x3/au.svg,1992,11.407,0.778,149.096,2608.43
+63,AUT,Austria,https://flagicons.lipis.dev/flags/4x3/at.svg,1992,9.889,0.801,169.708,1330.63
+70,BEL,Belgium,https://flagicons.lipis.dev/flags/4x3/be.svg,1992,16.282,1.237,251.603,2527.39
+135,CAN,Canada,https://flagicons.lipis.dev/flags/4x3/ca.svg,1992,12.75,1.19,244.536,6974.07
+162,CHE,Switzerland,https://flagicons.lipis.dev/flags/4x3/ch.svg,1992,9.692,0.808,227.292,1562.72
+199,CZE,Czech Republic,https://flagicons.lipis.dev/flags/4x3/cz.svg,1992,24.69,0.99,116.212,1199.21
+213,DEU,Germany,https://flagicons.lipis.dev/flags/4x3/de.svg,1992,15.365,1.388,301.102,24276.23
+263,DNK,Denmark,https://flagicons.lipis.dev/flags/4x3/dk.svg,1992,8.123,0.646,127.847,661.14
+365,FIN,Finland,https://flagicons.lipis.dev/flags/4x3/fi.svg,1992,11.166,0.951,164.015,826.96
+414,FRA,France,https://flagicons.lipis.dev/flags/4x3/fr.svg,1992,17.619,1.48,282.21,16608.4
+421,GBR,United Kingdom,https://flagicons.lipis.dev/flags/4x3/gb.svg,1992,15.092,0.896,156.32,9000.97
+475,GRC,Greece,https://flagicons.lipis.dev/flags/4x3/gr.svg,1992,17.802,1.154,164.945,1715.27
+497,HUN,Hungary,https://flagicons.lipis.dev/flags/4x3/hu.svg,1992,28.857,1.981,162.754,1687.65
+516,IRL,Ireland,https://flagicons.lipis.dev/flags/4x3/ie.svg,1992,11.891,0.752,113.484,403.82
+568,ISL,Iceland,https://flagicons.lipis.dev/flags/4x3/ic.svg,1992,13.313,1.033,227.372,59.36
+614,ITA,Italy,https://flagicons.lipis.dev/flags/4x3/it.svg,1992,21.474,1.529,306.334,17398.88
+620,JPN,Japan,https://flagicons.lipis.dev/flags/4x3/jp.svg,1992,22.009,1.33,282.452,35088.73
+651,KOR,South Korea,https://flagicons.lipis.dev/flags/4x3/kr.svg,1992,21.187,0.772,77.531,3391.82
+783,NLD,Netherlands,https://flagicons.lipis.dev/flags/4x3/nl.svg,1992,10.996,0.822,168.349,2556.24
+830,NOR,Norway,https://flagicons.lipis.dev/flags/4x3/no.svg,1992,7.903,0.593,121.995,522.92
+861,NZL,New Zealand,https://flagicons.lipis.dev/flags/4x3/ne.svg,1992,14.218,1.028,153.303,541.42
+917,PRT,Portugal,https://flagicons.lipis.dev/flags/4x3/pt.svg,1992,25.336,1.567,206.193,2052.13
+978,SWE,Sweden,https://flagicons.lipis.dev/flags/4x3/se.svg,1992,10.108,0.761,155.916,1351.49
+21,AUS,Australia,https://flagicons.lipis.dev/flags/4x3/au.svg,1993,11.977,0.819,165.359,2921.4
+61,AUT,Austria,https://flagicons.lipis.dev/flags/4x3/at.svg,1993,9.746,0.84,181.793,1437.19
+72,BEL,Belgium,https://flagicons.lipis.dev/flags/4x3/be.svg,1993,17.445,1.347,276.698,2790.35
+132,CAN,Canada,https://flagicons.lipis.dev/flags/4x3/ca.svg,1993,13.377,1.233,263.391,7594.46
+161,CHE,Switzerland,https://flagicons.lipis.dev/flags/4x3/ch.svg,1993,10.022,0.843,240.318,1667.39
+189,CZE,Czech Republic,https://flagicons.lipis.dev/flags/4x3/cz.svg,1993,22.358,1.201,144.243,1490.01
+231,DEU,Germany,https://flagicons.lipis.dev/flags/4x3/de.svg,1993,13.771,1.239,271.19,22008.79
+262,DNK,Denmark,https://flagicons.lipis.dev/flags/4x3/dk.svg,1993,8.692,0.72,145.443,754.65
+346,FIN,Finland,https://flagicons.lipis.dev/flags/4x3/fi.svg,1993,12.652,0.991,172.839,875.68
+415,FRA,France,https://flagicons.lipis.dev/flags/4x3/fr.svg,1993,18.002,1.586,306.279,18103.16
+419,GBR,United Kingdom,https://flagicons.lipis.dev/flags/4x3/gb.svg,1993,15.52,0.932,170.23,9825.44
+450,GRC,Greece,https://flagicons.lipis.dev/flags/4x3/gr.svg,1993,17.283,1.257,179.964,1882.5
+477,HUN,Hungary,https://flagicons.lipis.dev/flags/4x3/hu.svg,1993,30.694,2.127,178.094,1844.61
+514,IRL,Ireland,https://flagicons.lipis.dev/flags/4x3/ie.svg,1993,11.968,0.762,120.429,430.69
+566,ISL,Iceland,https://flagicons.lipis.dev/flags/4x3/ic.svg,1993,12.78,1.003,226.653,59.77
+609,ITA,Italy,https://flagicons.lipis.dev/flags/4x3/it.svg,1993,20.351,1.442,293.246,16665.7
+621,JPN,Japan,https://flagicons.lipis.dev/flags/4x3/jp.svg,1993,22.255,1.405,305.192,38007.39
+672,KOR,South Korea,https://flagicons.lipis.dev/flags/4x3/kr.svg,1993,21.812,0.776,84.383,3729.28
+776,NLD,Netherlands,https://flagicons.lipis.dev/flags/4x3/nl.svg,1993,11.522,0.872,184.053,2814.24
+823,NOR,Norway,https://flagicons.lipis.dev/flags/4x3/no.svg,1993,10.101,0.745,160.581,692.42
+862,NZL,New Zealand,https://flagicons.lipis.dev/flags/4x3/ne.svg,1993,14.854,1.029,164.199,586.55
+918,PRT,Portugal,https://flagicons.lipis.dev/flags/4x3/pt.svg,1993,26.203,1.691,222.786,2219.99
+979,SWE,Sweden,https://flagicons.lipis.dev/flags/4x3/se.svg,1993,11.203,0.871,177.84,1550.51
+20,AUS,Australia,https://flagicons.lipis.dev/flags/4x3/au.svg,1994,12.508,0.859,183.972,3284.82
+62,AUT,Austria,https://flagicons.lipis.dev/flags/4x3/at.svg,1994,9.457,0.852,192.083,1524.39
+90,BEL,Belgium,https://flagicons.lipis.dev/flags/4x3/be.svg,1994,17.459,1.313,283.434,2867.11
+130,CAN,Canada,https://flagicons.lipis.dev/flags/4x3/ca.svg,1994,13.613,1.206,272.076,7920.65
+166,CHE,Switzerland,https://flagicons.lipis.dev/flags/4x3/ch.svg,1994,10.055,0.853,249.578,1745.5
+190,CZE,Czech Republic,https://flagicons.lipis.dev/flags/4x3/cz.svg,1994,28.254,1.564,197.307,2038.89
+233,DEU,Germany,https://flagicons.lipis.dev/flags/4x3/de.svg,1994,13.388,1.236,282.377,22996.32
+261,DNK,Denmark,https://flagicons.lipis.dev/flags/4x3/dk.svg,1994,9.047,0.731,158.155,823.38
+367,FIN,Finland,https://flagicons.lipis.dev/flags/4x3/fi.svg,1994,13.733,1.0,184.471,938.65
+416,FRA,France,https://flagicons.lipis.dev/flags/4x3/fr.svg,1994,17.898,1.574,316.56,18780.62
+423,GBR,United Kingdom,https://flagicons.lipis.dev/flags/4x3/gb.svg,1994,15.948,0.969,187.466,10847.86
+453,GRC,Greece,https://flagicons.lipis.dev/flags/4x3/gr.svg,1994,16.73,1.335,198.096,2082.57
+496,HUN,Hungary,https://flagicons.lipis.dev/flags/4x3/hu.svg,1994,30.348,2.248,198.12,2049.23
+513,IRL,Ireland,https://flagicons.lipis.dev/flags/4x3/ie.svg,1994,12.097,0.758,128.871,462.7
+565,ISL,Iceland,https://flagicons.lipis.dev/flags/4x3/ic.svg,1994,13.419,1.03,244.128,64.94
+608,ITA,Italy,https://flagicons.lipis.dev/flags/4x3/it.svg,1994,20.117,1.395,295.781,16813.2
+622,JPN,Japan,https://flagicons.lipis.dev/flags/4x3/jp.svg,1994,21.057,1.386,309.352,38656.94
+665,KOR,South Korea,https://flagicons.lipis.dev/flags/4x3/kr.svg,1994,22.391,0.769,92.316,4121.13
+767,NLD,Netherlands,https://flagicons.lipis.dev/flags/4x3/nl.svg,1994,11.406,0.85,187.466,2883.76
+821,NOR,Norway,https://flagicons.lipis.dev/flags/4x3/no.svg,1994,9.282,0.677,155.562,674.61
+864,NZL,New Zealand,https://flagicons.lipis.dev/flags/4x3/ne.svg,1994,15.806,1.096,187.377,678.3
+919,PRT,Portugal,https://flagicons.lipis.dev/flags/4x3/pt.svg,1994,26.03,1.673,226.69,2264.98
+980,SWE,Sweden,https://flagicons.lipis.dev/flags/4x3/se.svg,1994,12.355,0.911,196.493,1725.35
+1015,TUR,Turkey,https://flagicons.lipis.dev/flags/4x3/tr.svg,1994,31.628,0.83,75.335,4336.59
+1,AUS,Australia,https://flagicons.lipis.dev/flags/4x3/au.svg,1995,12.762,0.882,198.406,3585.59
+69,AUT,Austria,https://flagicons.lipis.dev/flags/4x3/at.svg,1995,9.542,0.854,201.335,1600.27
+73,BEL,Belgium,https://flagicons.lipis.dev/flags/4x3/be.svg,1995,18.068,1.351,304.259,3084.22
+112,CAN,Canada,https://flagicons.lipis.dev/flags/4x3/ca.svg,1995,14.358,1.229,287.512,8439.63
+159,CHE,Switzerland,https://flagicons.lipis.dev/flags/4x3/ch.svg,1995,10.097,0.893,266.307,1874.98
+191,CZE,Czech Republic,https://flagicons.lipis.dev/flags/4x3/cz.svg,1995,28.28,1.629,222.953,2302.49
+255,DEU,Germany,https://flagicons.lipis.dev/flags/4x3/de.svg,1995,13.176,1.253,296.636,24228.65
+260,DNK,Denmark,https://flagicons.lipis.dev/flags/4x3/dk.svg,1995,9.329,0.725,164.174,859.18
+306,ESP,Spain,https://flagicons.lipis.dev/flags/4x3/es.svg,1995,19.775,1.394,225.894,8973.42
+347,FIN,Finland,https://flagicons.lipis.dev/flags/4x3/fi.svg,1995,14.321,1.053,205.851,1051.44
+417,FRA,France,https://flagicons.lipis.dev/flags/4x3/fr.svg,1995,15.393,1.513,316.071,18819.47
+431,GBR,United Kingdom,https://flagicons.lipis.dev/flags/4x3/gb.svg,1995,16.126,0.913,184.328,10694.53
+473,GRC,Greece,https://flagicons.lipis.dev/flags/4x3/gr.svg,1995,16.305,1.3,200.21,2114.65
+495,HUN,Hungary,https://flagicons.lipis.dev/flags/4x3/hu.svg,1995,26.713,1.802,164.765,1701.85
+512,IRL,Ireland,https://flagicons.lipis.dev/flags/4x3/ie.svg,1995,12.044,0.735,139.028,501.73
+564,ISL,Iceland,https://flagicons.lipis.dev/flags/4x3/ic.svg,1995,13.794,1.076,259.171,69.32
+607,ITA,Italy,https://flagicons.lipis.dev/flags/4x3/it.svg,1995,19.534,1.342,298.92,16991.9
+623,JPN,Japan,https://flagicons.lipis.dev/flags/4x3/jp.svg,1995,21.039,1.322,309.164,38781.22
+666,KOR,South Korea,https://flagicons.lipis.dev/flags/4x3/kr.svg,1995,22.834,0.786,104.456,4710.23
+725,LUX,Luxembourg,https://flagicons.lipis.dev/flags/4x3/lu.svg,1995,12.038,0.642,267.785,109.42
+757,NLD,Netherlands,https://flagicons.lipis.dev/flags/4x3/nl.svg,1995,11.65,0.858,198.145,3063.12
+820,NOR,Norway,https://flagicons.lipis.dev/flags/4x3/no.svg,1995,9.514,0.692,168.181,733.13
+865,NZL,New Zealand,https://flagicons.lipis.dev/flags/4x3/ne.svg,1995,14.775,1.027,183.84,675.32
+920,PRT,Portugal,https://flagicons.lipis.dev/flags/4x3/pt.svg,1995,24.275,1.748,251.235,2518.93
+981,SWE,Sweden,https://flagicons.lipis.dev/flags/4x3/se.svg,1995,12.929,0.943,214.705,1895.19
+2,AUS,Australia,https://flagicons.lipis.dev/flags/4x3/au.svg,1996,13.106,0.924,215.606,3947.96
+64,AUT,Austria,https://flagicons.lipis.dev/flags/4x3/at.svg,1996,9.839,0.876,214.418,1706.56
+74,BEL,Belgium,https://flagicons.lipis.dev/flags/4x3/be.svg,1996,17.119,1.327,303.867,3086.27
+113,CAN,Canada,https://flagicons.lipis.dev/flags/4x3/ca.svg,1996,14.578,1.219,292.026,8664.97
+158,CHE,Switzerland,https://flagicons.lipis.dev/flags/4x3/ch.svg,1996,10.162,0.935,285.052,2015.84
+192,CZE,Czech Republic,https://flagicons.lipis.dev/flags/4x3/cz.svg,1996,27.665,1.56,226.75,2338.98
+235,DEU,Germany,https://flagicons.lipis.dev/flags/4x3/de.svg,1996,13.456,1.318,319.619,26181.54
+259,DNK,Denmark,https://flagicons.lipis.dev/flags/4x3/dk.svg,1996,9.16,0.718,170.275,896.17
+307,ESP,Spain,https://flagicons.lipis.dev/flags/4x3/es.svg,1996,20.275,1.433,242.473,9672.21
+348,FIN,Finland,https://flagicons.lipis.dev/flags/4x3/fi.svg,1996,14.875,1.112,223.071,1143.14
+418,FRA,France,https://flagicons.lipis.dev/flags/4x3/fr.svg,1996,15.224,1.497,321.77,19226.75
+425,GBR,United Kingdom,https://flagicons.lipis.dev/flags/4x3/gb.svg,1996,16.546,0.935,201.152,11700.4
+472,GRC,Greece,https://flagicons.lipis.dev/flags/4x3/gr.svg,1996,16.693,1.315,212.121,2250.35
+494,HUN,Hungary,https://flagicons.lipis.dev/flags/4x3/hu.svg,1996,27.273,1.816,169.22,1744.87
+511,IRL,Ireland,https://flagicons.lipis.dev/flags/4x3/ie.svg,1996,12.882,0.763,156.317,568.6
+582,ISL,Iceland,https://flagicons.lipis.dev/flags/4x3/ic.svg,1996,14.277,1.118,279.501,75.16
+606,ITA,Italy,https://flagicons.lipis.dev/flags/4x3/it.svg,1996,19.968,1.39,319.386,18160.38
+615,JPN,Japan,https://flagicons.lipis.dev/flags/4x3/jp.svg,1996,21.039,1.288,315.832,39718.08
+668,KOR,South Korea,https://flagicons.lipis.dev/flags/4x3/kr.svg,1996,23.041,0.835,120.499,5485.68
+724,LUX,Luxembourg,https://flagicons.lipis.dev/flags/4x3/lu.svg,1996,11.524,0.616,268.172,111.08
+758,NLD,Netherlands,https://flagicons.lipis.dev/flags/4x3/nl.svg,1996,11.627,0.848,205.342,3189.06
+819,NOR,Norway,https://flagicons.lipis.dev/flags/4x3/no.svg,1996,9.653,0.694,185.931,814.63
+866,NZL,New Zealand,https://flagicons.lipis.dev/flags/4x3/ne.svg,1996,14.541,1.002,185.022,690.5
+905,PRT,Portugal,https://flagicons.lipis.dev/flags/4x3/pt.svg,1996,24.626,1.835,273.478,2752.27
+982,SWE,Sweden,https://flagicons.lipis.dev/flags/4x3/se.svg,1996,14.254,1.068,252.227,2229.94
+3,AUS,Australia,https://flagicons.lipis.dev/flags/4x3/au.svg,1997,13.437,0.95,232.59,4306.87
+65,AUT,Austria,https://flagicons.lipis.dev/flags/4x3/at.svg,1997,11.213,1.01,255.927,2039.24
+75,BEL,Belgium,https://flagicons.lipis.dev/flags/4x3/be.svg,1997,17.497,1.332,318.442,3242.14
+114,CAN,Canada,https://flagicons.lipis.dev/flags/4x3/ca.svg,1997,15.255,1.273,320.266,9603.88
+157,CHE,Switzerland,https://flagicons.lipis.dev/flags/4x3/ch.svg,1997,10.453,0.96,305.359,2164.66
+193,CZE,Czech Republic,https://flagicons.lipis.dev/flags/4x3/cz.svg,1997,27.252,1.539,225.909,2327.8
+254,DEU,Germany,https://flagicons.lipis.dev/flags/4x3/de.svg,1997,13.439,1.301,322.366,26445.22
+265,DNK,Denmark,https://flagicons.lipis.dev/flags/4x3/dk.svg,1997,9.295,0.72,179.425,948.26
+308,ESP,Spain,https://flagicons.lipis.dev/flags/4x3/es.svg,1997,21.321,1.482,264.692,10602.87
+349,FIN,Finland,https://flagicons.lipis.dev/flags/4x3/fi.svg,1997,15.244,1.087,236.623,1216.2
+407,FRA,France,https://flagicons.lipis.dev/flags/4x3/fr.svg,1997,15.462,1.501,336.182,20159.1
+426,GBR,United Kingdom,https://flagicons.lipis.dev/flags/4x3/gb.svg,1997,16.925,0.935,212.206,12375.21
+471,GRC,Greece,https://flagicons.lipis.dev/flags/4x3/gr.svg,1997,16.871,1.298,222.511,2372.25
+493,HUN,Hungary,https://flagicons.lipis.dev/flags/4x3/hu.svg,1997,27.639,1.747,171.035,1760.03
+510,IRL,Ireland,https://flagicons.lipis.dev/flags/4x3/ie.svg,1997,12.558,0.734,165.977,609.83
+585,ISL,Iceland,https://flagicons.lipis.dev/flags/4x3/ic.svg,1997,15.489,1.198,322.933,87.56
+605,ITA,Italy,https://flagicons.lipis.dev/flags/4x3/it.svg,1997,20.183,1.458,347.054,19744.03
+624,JPN,Japan,https://flagicons.lipis.dev/flags/4x3/jp.svg,1997,19.496,1.248,313.426,39509.54
+669,KOR,South Korea,https://flagicons.lipis.dev/flags/4x3/kr.svg,1997,22.989,0.829,127.733,5869.79
+723,LUX,Luxembourg,https://flagicons.lipis.dev/flags/4x3/lu.svg,1997,12.647,0.664,299.201,125.5
+777,NLD,Netherlands,https://flagicons.lipis.dev/flags/4x3/nl.svg,1997,11.499,0.817,210.01,3278.39
+818,NOR,Norway,https://flagicons.lipis.dev/flags/4x3/no.svg,1997,9.633,0.746,213.214,939.24
+867,NZL,New Zealand,https://flagicons.lipis.dev/flags/4x3/ne.svg,1997,14.355,1.019,194.962,737.21
+909,PRT,Portugal,https://flagicons.lipis.dev/flags/4x3/pt.svg,1997,24.72,1.832,289.154,2923.05
+983,SWE,Sweden,https://flagicons.lipis.dev/flags/4x3/se.svg,1997,13.028,0.953,233.056,2061.63
+22,AUS,Australia,https://flagicons.lipis.dev/flags/4x3/au.svg,1998,14.084,1.019,261.728,4897.19
+66,AUT,Austria,https://flagicons.lipis.dev/flags/4x3/at.svg,1998,11.843,1.087,288.769,2303.45
+115,CAN,Canada,https://flagicons.lipis.dev/flags/4x3/ca.svg,1998,15.702,1.347,352.804,10671.58
+184,CHE,Switzerland,https://flagicons.lipis.dev/flags/4x3/ch.svg,1998,10.352,0.964,316.86,2252.87
+194,CZE,Czech Republic,https://flagicons.lipis.dev/flags/4x3/cz.svg,1998,25.085,1.412,209.924,2161.04
+253,DEU,Germany,https://flagicons.lipis.dev/flags/4x3/de.svg,1998,13.956,1.354,345.877,28378.24
+275,DNK,Denmark,https://flagicons.lipis.dev/flags/4x3/dk.svg,1998,10.367,0.783,201.887,1070.85
+309,ESP,Spain,https://flagicons.lipis.dev/flags/4x3/es.svg,1998,21.66,1.498,284.806,11455.9
+350,FIN,Finland,https://flagicons.lipis.dev/flags/4x3/fi.svg,1998,14.646,0.999,235.186,1212.03
+408,FRA,France,https://flagicons.lipis.dev/flags/4x3/fr.svg,1998,15.872,1.525,358.556,21580.16
+470,GRC,Greece,https://flagicons.lipis.dev/flags/4x3/gr.svg,1998,14.475,1.097,197.608,2118.46
+509,IRL,Ireland,https://flagicons.lipis.dev/flags/4x3/ie.svg,1998,13.213,0.745,186.457,692.26
+567,ISL,Iceland,https://flagicons.lipis.dev/flags/4x3/ic.svg,1998,14.498,1.232,352.048,96.48
+604,ITA,Italy,https://flagicons.lipis.dev/flags/4x3/it.svg,1998,20.643,1.5,373.922,21278.68
+625,JPN,Japan,https://flagicons.lipis.dev/flags/4x3/jp.svg,1998,17.942,1.187,297.259,37573.54
+670,KOR,South Korea,https://flagicons.lipis.dev/flags/4x3/kr.svg,1998,22.373,0.837,122.339,5662.64
+726,LUX,Luxembourg,https://flagicons.lipis.dev/flags/4x3/lu.svg,1998,12.309,0.668,311.45,132.27
+759,NLD,Netherlands,https://flagicons.lipis.dev/flags/4x3/nl.svg,1998,11.76,0.844,230.684,3623.4
+817,NOR,Norway,https://flagicons.lipis.dev/flags/4x3/no.svg,1998,9.592,0.808,227.62,1008.69
+903,PRT,Portugal,https://flagicons.lipis.dev/flags/4x3/pt.svg,1998,24.15,1.783,297.23,3019.92
+967,SWE,Sweden,https://flagicons.lipis.dev/flags/4x3/se.svg,1998,14.286,1.058,269.433,2384.74
+4,AUS,Australia,https://flagicons.lipis.dev/flags/4x3/au.svg,1999,14.679,1.075,291.589,5518.61
+67,AUT,Austria,https://flagicons.lipis.dev/flags/4x3/at.svg,1999,12.551,1.17,322.318,2576.07
+116,CAN,Canada,https://flagicons.lipis.dev/flags/4x3/ca.svg,1999,16.199,1.354,375.645,11456.87
+156,CHE,Switzerland,https://flagicons.lipis.dev/flags/4x3/ch.svg,1999,10.623,1.003,339.043,2422.12
+195,CZE,Czech Republic,https://flagicons.lipis.dev/flags/4x3/cz.svg,1999,24.149,1.403,214.504,2205.93
+252,DEU,Germany,https://flagicons.lipis.dev/flags/4x3/de.svg,1999,13.996,1.367,363.37,29832.77
+284,DNK,Denmark,https://flagicons.lipis.dev/flags/4x3/dk.svg,1999,9.051,0.755,201.247,1071.0
+310,ESP,Spain,https://flagicons.lipis.dev/flags/4x3/es.svg,1999,22.123,1.532,304.884,12313.31
+341,EST,Estonia,https://flagicons.lipis.dev/flags/4x3/ee.svg,1999,19.973,1.139,95.332,132.53
+345,FIN,Finland,https://flagicons.lipis.dev/flags/4x3/fi.svg,1999,15.566,1.058,262.083,1353.78
+405,FRA,France,https://flagicons.lipis.dev/flags/4x3/fr.svg,1999,16.395,1.576,385.896,23345.44
+469,GRC,Greece,https://flagicons.lipis.dev/flags/4x3/gr.svg,1999,15.079,1.171,216.13,2325.93
+508,IRL,Ireland,https://flagicons.lipis.dev/flags/4x3/ie.svg,1999,13.97,0.78,210.83,791.62
+559,ISL,Iceland,https://flagicons.lipis.dev/flags/4x3/ic.svg,1999,14.402,1.282,376.679,104.48
+603,ITA,Italy,https://flagicons.lipis.dev/flags/4x3/it.svg,1999,21.177,1.554,396.645,22575.57
+626,JPN,Japan,https://flagicons.lipis.dev/flags/4x3/jp.svg,1999,18.152,1.266,320.554,40592.07
+671,KOR,South Korea,https://flagicons.lipis.dev/flags/4x3/kr.svg,1999,22.44,0.885,145.054,6761.94
+721,LUX,Luxembourg,https://flagicons.lipis.dev/flags/4x3/lu.svg,1999,11.965,0.661,350.872,151.04
+746,MEX,Mexico,https://flagicons.lipis.dev/flags/4x3/mx.svg,1999,18.935,0.931,85.022,8527.76
+760,NLD,Netherlands,https://flagicons.lipis.dev/flags/4x3/nl.svg,1999,12.003,0.862,249.383,3943.27
+832,NOR,Norway,https://flagicons.lipis.dev/flags/4x3/no.svg,1999,9.601,0.81,247.47,1104.19
+940,SVK,Slovakia,https://flagicons.lipis.dev/flags/4x3/sk.svg,1999,34.81,1.928,206.344,1113.44
+986,SWE,Sweden,https://flagicons.lipis.dev/flags/4x3/se.svg,1999,14.635,1.085,294.6,2609.53
+1016,TUR,Turkey,https://flagicons.lipis.dev/flags/4x3/tr.svg,1999,27.339,1.221,100.371,6251.84
+5,AUS,Australia,https://flagicons.lipis.dev/flags/4x3/au.svg,2000,15.702,1.194,338.665,6486.45
+68,AUT,Austria,https://flagicons.lipis.dev/flags/4x3/at.svg,2000,12.734,1.174,344.082,2756.64
+117,CAN,Canada,https://flagicons.lipis.dev/flags/4x3/ca.svg,2000,16.601,1.374,402.054,12371.08
+165,CHE,Switzerland,https://flagicons.lipis.dev/flags/4x3/ch.svg,2000,10.836,1.012,361.001,2593.52
+196,CZE,Czech Republic,https://flagicons.lipis.dev/flags/4x3/cz.svg,2000,24.659,1.414,228.095,2339.13
+251,DEU,Germany,https://flagicons.lipis.dev/flags/4x3/de.svg,2000,14.082,1.386,381.455,31359.99
+276,DNK,Denmark,https://flagicons.lipis.dev/flags/4x3/dk.svg,2000,9.068,0.735,210.487,1123.92
+322,ESP,Spain,https://flagicons.lipis.dev/flags/4x3/es.svg,2000,21.958,1.497,322.041,13064.52
+340,EST,Estonia,https://flagicons.lipis.dev/flags/4x3/ee.svg,2000,22.79,1.177,110.803,154.79
+351,FIN,Finland,https://flagicons.lipis.dev/flags/4x3/fi.svg,2000,15.619,1.068,285.448,1477.54
+403,FRA,France,https://flagicons.lipis.dev/flags/4x3/fr.svg,2000,16.899,1.612,423.358,25787.79
+468,GRC,Greece,https://flagicons.lipis.dev/flags/4x3/gr.svg,2000,19.871,1.439,280.723,3033.44
+533,IRL,Ireland,https://flagicons.lipis.dev/flags/4x3/ie.svg,2000,14.176,0.837,252.441,960.58
+558,ISL,Iceland,https://flagicons.lipis.dev/flags/4x3/ic.svg,2000,14.832,1.336,394.133,110.83
+602,ITA,Italy,https://flagicons.lipis.dev/flags/4x3/it.svg,2000,21.158,1.604,433.143,24664.08
+627,JPN,Japan,https://flagicons.lipis.dev/flags/4x3/jp.svg,2000,18.406,1.316,352.442,44704.8
+673,KOR,South Korea,https://flagicons.lipis.dev/flags/4x3/kr.svg,2000,24.454,0.978,176.815,8311.74
+719,LUX,Luxembourg,https://flagicons.lipis.dev/flags/4x3/lu.svg,2000,11.036,0.651,375.816,163.97
+745,MEX,Mexico,https://flagicons.lipis.dev/flags/4x3/mx.svg,2000,19.936,0.968,96.569,9822.97
+761,NLD,Netherlands,https://flagicons.lipis.dev/flags/4x3/nl.svg,2000,12.285,0.867,273.687,4358.61
+834,NOR,Norway,https://flagicons.lipis.dev/flags/4x3/no.svg,2000,10.212,0.787,290.719,1305.61
+902,PRT,Portugal,https://flagicons.lipis.dev/flags/4x3/pt.svg,2000,21.881,1.832,345.833,3558.59
+941,SVK,Slovakia,https://flagicons.lipis.dev/flags/4x3/sk.svg,2000,34.69,1.843,209.134,1126.96
+972,SWE,Sweden,https://flagicons.lipis.dev/flags/4x3/se.svg,2000,14.511,1.076,314.697,2792.03
+1017,TUR,Turkey,https://flagicons.lipis.dev/flags/4x3/tr.svg,2000,27.806,1.285,118.272,7479.54
+1021,USA,United States,https://flagicons.lipis.dev/flags/4x3/um.svg,2000,11.365,1.421,518.109,146190.88
+6,AUS,Australia,https://flagicons.lipis.dev/flags/4x3/au.svg,2001,16.059,1.236,364.771,7081.3
+57,AUT,Austria,https://flagicons.lipis.dev/flags/4x3/at.svg,2001,12.897,1.198,356.061,2863.55
+118,CAN,Canada,https://flagicons.lipis.dev/flags/4x3/ca.svg,2001,16.921,1.465,441.311,13716.78
+167,CHE,Switzerland,https://flagicons.lipis.dev/flags/4x3/ch.svg,2001,10.741,1.041,383.731,2774.32
+197,CZE,Czech Republic,https://flagicons.lipis.dev/flags/4x3/cz.svg,2001,24.981,1.474,258.786,2643.91
+250,DEU,Germany,https://flagicons.lipis.dev/flags/4x3/de.svg,2001,14.692,1.451,418.329,34449.36
+291,DNK,Denmark,https://flagicons.lipis.dev/flags/4x3/dk.svg,2001,8.983,0.759,224.017,1200.46
+312,ESP,Spain,https://flagicons.lipis.dev/flags/4x3/es.svg,2001,21.949,1.489,341.886,13966.18
+339,EST,Estonia,https://flagicons.lipis.dev/flags/4x3/ee.svg,2001,25.52,1.222,126.176,175.15
+352,FIN,Finland,https://flagicons.lipis.dev/flags/4x3/fi.svg,2001,16.076,1.123,312.574,1621.64
+389,FRA,France,https://flagicons.lipis.dev/flags/4x3/fr.svg,2001,17.333,1.675,464.882,28523.97
+467,GRC,Greece,https://flagicons.lipis.dev/flags/4x3/gr.svg,2001,19.075,1.524,320.158,3477.6
+492,HUN,Hungary,https://flagicons.lipis.dev/flags/4x3/hu.svg,2001,29.674,2.028,268.268,2733.0
+507,IRL,Ireland,https://flagicons.lipis.dev/flags/4x3/ie.svg,2001,14.435,0.924,301.335,1165.03
+557,ISL,Iceland,https://flagicons.lipis.dev/flags/4x3/ic.svg,2001,14.384,1.277,403.914,115.1
+601,ITA,Italy,https://flagicons.lipis.dev/flags/4x3/it.svg,2001,21.92,1.703,476.761,27163.03
+629,JPN,Japan,https://flagicons.lipis.dev/flags/4x3/jp.svg,2001,18.859,1.388,380.919,48433.47
+674,KOR,South Korea,https://flagicons.lipis.dev/flags/4x3/kr.svg,2001,26.752,1.211,232.254,11001.91
+706,LUX,Luxembourg,https://flagicons.lipis.dev/flags/4x3/lu.svg,2001,10.958,0.702,409.75,180.91
+744,MEX,Mexico,https://flagicons.lipis.dev/flags/4x3/mx.svg,2001,19.889,1.045,105.263,10849.15
+762,NLD,Netherlands,https://flagicons.lipis.dev/flags/4x3/nl.svg,2001,12.232,0.91,299.575,4807.03
+809,NOR,Norway,https://flagicons.lipis.dev/flags/4x3/no.svg,2001,9.993,0.801,303.553,1370.16
+887,PRT,Portugal,https://flagicons.lipis.dev/flags/4x3/pt.svg,2001,22.486,1.89,370.107,3835.32
+942,SVK,Slovakia,https://flagicons.lipis.dev/flags/4x3/sk.svg,2001,34.657,1.851,229.487,1234.38
+1000,SWE,Sweden,https://flagicons.lipis.dev/flags/4x3/se.svg,2001,14.61,1.174,348.639,3101.48
+1022,USA,United States,https://flagicons.lipis.dev/flags/4x3/um.svg,2001,11.729,1.545,575.975,164134.99
+7,AUS,Australia,https://flagicons.lipis.dev/flags/4x3/au.svg,2002,15.374,1.213,373.044,7330.84
+58,AUT,Austria,https://flagicons.lipis.dev/flags/4x3/at.svg,2002,13.154,1.238,385.304,3114.01
+119,CAN,Canada,https://flagicons.lipis.dev/flags/4x3/ca.svg,2002,17.438,1.55,478.226,14998.12
+182,CHE,Switzerland,https://flagicons.lipis.dev/flags/4x3/ch.svg,2002,10.395,1.05,395.506,2881.16
+198,CZE,Czech Republic,https://flagicons.lipis.dev/flags/4x3/cz.svg,2002,25.069,1.558,282.66,2882.26
+249,DEU,Germany,https://flagicons.lipis.dev/flags/4x3/de.svg,2002,14.916,1.51,447.719,36931.67
+290,DNK,Denmark,https://flagicons.lipis.dev/flags/4x3/dk.svg,2002,9.409,0.819,250.898,1348.81
+313,ESP,Spain,https://flagicons.lipis.dev/flags/4x3/es.svg,2002,22.65,1.541,375.405,15553.61
+338,EST,Estonia,https://flagicons.lipis.dev/flags/4x3/ee.svg,2002,27.158,1.285,148.975,205.49
+353,FIN,Finland,https://flagicons.lipis.dev/flags/4x3/fi.svg,2002,16.247,1.196,341.56,1776.32
+390,FRA,France,https://flagicons.lipis.dev/flags/4x3/fr.svg,2002,17.188,1.716,492.632,30447.25
+466,GRC,Greece,https://flagicons.lipis.dev/flags/4x3/gr.svg,2002,19.949,1.643,371.489,4049.98
+491,HUN,Hungary,https://flagicons.lipis.dev/flags/4x3/hu.svg,2002,28.947,2.063,299.439,3041.88
+506,IRL,Ireland,https://flagicons.lipis.dev/flags/4x3/ie.svg,2002,14.779,0.987,347.346,1365.75
+556,ISL,Iceland,https://flagicons.lipis.dev/flags/4x3/ic.svg,2002,14.366,1.377,443.416,127.49
+600,ITA,Italy,https://flagicons.lipis.dev/flags/4x3/it.svg,2002,21.865,1.726,494.302,28204.38
+641,JPN,Japan,https://flagicons.lipis.dev/flags/4x3/jp.svg,2002,18.64,1.393,392.312,49998.2
+675,KOR,South Korea,https://flagicons.lipis.dev/flags/4x3/kr.svg,2002,27.015,1.182,245.612,11702.12
+707,LUX,Luxembourg,https://flagicons.lipis.dev/flags/4x3/lu.svg,2002,10.879,0.733,448.58,200.15
+749,MEX,Mexico,https://flagicons.lipis.dev/flags/4x3/mx.svg,2002,21.64,1.17,120.726,12598.44
+763,NLD,Netherlands,https://flagicons.lipis.dev/flags/4x3/nl.svg,2002,12.018,0.956,324.925,5247.19
+811,NOR,Norway,https://flagicons.lipis.dev/flags/4x3/no.svg,2002,10.057,0.906,343.788,1560.16
+881,POL,Poland,https://flagicons.lipis.dev/flags/4x3/pl.svg,2002,29.509,1.794,211.341,8079.64
+886,PRT,Portugal,https://flagicons.lipis.dev/flags/4x3/pt.svg,2002,22.542,1.929,392.927,4094.15
+948,SVK,Slovakia,https://flagicons.lipis.dev/flags/4x3/sk.svg,2002,37.564,2.072,275.505,1481.37
+954,SVN,Slovenia,https://flagicons.lipis.dev/flags/4x3/si.svg,2002,22.091,1.766,358.67,715.38
+999,SWE,Sweden,https://flagicons.lipis.dev/flags/4x3/se.svg,2002,14.706,1.23,376.14,3357.03
+1023,USA,United States,https://flagicons.lipis.dev/flags/4x3/um.svg,2002,12.075,1.686,643.351,185043.96
+8,AUS,Australia,https://flagicons.lipis.dev/flags/4x3/au.svg,2003,15.761,1.244,401.302,7984.06
+55,AUT,Austria,https://flagicons.lipis.dev/flags/4x3/at.svg,2003,13.607,1.304,417.087,3387.34
+76,BEL,Belgium,https://flagicons.lipis.dev/flags/4x3/be.svg,2003,17.13,1.557,483.535,5017.22
+111,CAN,Canada,https://flagicons.lipis.dev/flags/4x3/ca.svg,2003,17.845,1.614,519.989,16471.17
+169,CHE,Switzerland,https://flagicons.lipis.dev/flags/4x3/ch.svg,2003,10.616,1.103,414.972,3045.48
+201,CZE,Czech Republic,https://flagicons.lipis.dev/flags/4x3/cz.svg,2003,25.196,1.657,320.79,3270.13
+248,DEU,Germany,https://flagicons.lipis.dev/flags/4x3/de.svg,2003,14.936,1.547,469.542,38753.26
+289,DNK,Denmark,https://flagicons.lipis.dev/flags/4x3/dk.svg,2003,9.241,0.823,253.303,1365.45
+314,ESP,Spain,https://flagicons.lipis.dev/flags/4x3/es.svg,2003,21.879,1.648,412.778,17414.13
+337,EST,Estonia,https://flagicons.lipis.dev/flags/4x3/ee.svg,2003,24.654,1.204,157.352,215.69
+354,FIN,Finland,https://flagicons.lipis.dev/flags/4x3/fi.svg,2003,16.126,1.236,358.157,1867.08
+391,FRA,France,https://flagicons.lipis.dev/flags/4x3/fr.svg,2003,17.559,1.763,499.545,31094.12
+465,GRC,Greece,https://flagicons.lipis.dev/flags/4x3/gr.svg,2003,21.388,1.753,418.525,4573.67
+490,HUN,Hungary,https://flagicons.lipis.dev/flags/4x3/hu.svg,2003,27.593,2.247,346.433,3509.21
+505,IRL,Ireland,https://flagicons.lipis.dev/flags/4x3/ie.svg,2003,15.088,1.057,383.182,1531.39
+555,ISL,Iceland,https://flagicons.lipis.dev/flags/4x3/ic.svg,2003,15.241,1.536,496.023,143.61
+599,ITA,Italy,https://flagicons.lipis.dev/flags/4x3/it.svg,2003,21.375,1.679,488.266,27984.09
+630,JPN,Japan,https://flagicons.lipis.dev/flags/4x3/jp.svg,2003,19.527,1.486,429.378,54839.3
+676,KOR,South Korea,https://flagicons.lipis.dev/flags/4x3/kr.svg,2003,29.38,1.397,298.593,14300.31
+718,LUX,Luxembourg,https://flagicons.lipis.dev/flags/4x3/lu.svg,2003,10.965,0.764,478.191,215.97
+743,MEX,Mexico,https://flagicons.lipis.dev/flags/4x3/mx.svg,2003,35.894,2.134,230.651,24366.08
+816,NOR,Norway,https://flagicons.lipis.dev/flags/4x3/no.svg,2003,9.877,0.911,350.856,1601.61
+880,POL,Poland,https://flagicons.lipis.dev/flags/4x3/pl.svg,2003,31.574,1.883,230.732,8815.02
+889,PRT,Portugal,https://flagicons.lipis.dev/flags/4x3/pt.svg,2003,22.284,1.984,413.377,4323.44
+945,SVK,Slovakia,https://flagicons.lipis.dev/flags/4x3/sk.svg,2003,40.239,2.196,310.549,1668.7
+961,SVN,Slovenia,https://flagicons.lipis.dev/flags/4x3/si.svg,2003,21.213,1.714,362.285,723.02
+995,SWE,Sweden,https://flagicons.lipis.dev/flags/4x3/se.svg,2003,14.215,1.203,378.634,3391.89
+1024,USA,United States,https://flagicons.lipis.dev/flags/4x3/um.svg,2003,12.327,1.782,707.226,205171.87
+9,AUS,Australia,https://flagicons.lipis.dev/flags/4x3/au.svg,2004,15.656,1.269,429.882,8652.41
+53,AUT,Austria,https://flagicons.lipis.dev/flags/4x3/at.svg,2004,13.41,1.294,435.327,3557.48
+71,BEL,Belgium,https://flagicons.lipis.dev/flags/4x3/be.svg,2004,17.098,1.557,502.408,5235.66
+120,CAN,Canada,https://flagicons.lipis.dev/flags/4x3/ca.svg,2004,17.992,1.637,553.47,17708.27
+170,CHE,Switzerland,https://flagicons.lipis.dev/flags/4x3/ch.svg,2004,10.549,1.1,430.299,3179.75
+200,CZE,Czech Republic,https://flagicons.lipis.dev/flags/4x3/cz.svg,2004,25.671,1.642,341.185,3479.1
+247,DEU,Germany,https://flagicons.lipis.dev/flags/4x3/de.svg,2004,14.348,1.454,462.927,38199.0
+288,DNK,Denmark,https://flagicons.lipis.dev/flags/4x3/dk.svg,2004,8.921,0.804,264.636,1430.23
+315,ESP,Spain,https://flagicons.lipis.dev/flags/4x3/es.svg,2004,21.26,1.62,424.38,18215.19
+336,EST,Estonia,https://flagicons.lipis.dev/flags/4x3/ee.svg,2004,25.539,1.301,187.682,255.73
+355,FIN,Finland,https://flagicons.lipis.dev/flags/4x3/fi.svg,2004,16.223,1.264,393.582,2057.71
+392,FRA,France,https://flagicons.lipis.dev/flags/4x3/fr.svg,2004,17.63,1.785,522.087,32737.41
+464,GRC,Greece,https://flagicons.lipis.dev/flags/4x3/gr.svg,2004,23.038,1.827,465.174,5096.05
+489,HUN,Hungary,https://flagicons.lipis.dev/flags/4x3/hu.svg,2004,29.108,2.267,367.309,3712.45
+504,IRL,Ireland,https://flagicons.lipis.dev/flags/4x3/ie.svg,2004,15.655,1.131,437.694,1781.53
+554,ISL,Iceland,https://flagicons.lipis.dev/flags/4x3/ic.svg,2004,15.39,1.471,519.038,151.6
+598,ITA,Italy,https://flagicons.lipis.dev/flags/4x3/it.svg,2004,20.996,1.719,506.591,29222.87
+631,JPN,Japan,https://flagicons.lipis.dev/flags/4x3/jp.svg,2004,19.459,1.49,452.975,57872.54
+677,KOR,South Korea,https://flagicons.lipis.dev/flags/4x3/kr.svg,2004,29.254,1.397,320.678,15419.01
+700,LTU,Lithuania,https://flagicons.lipis.dev/flags/4x3/lt.svg,2004,33.914,1.867,243.511,822.35
+717,LUX,Luxembourg,https://flagicons.lipis.dev/flags/4x3/lu.svg,2004,10.412,0.765,510.874,234.03
+737,LVA,Latvia,https://flagicons.lipis.dev/flags/4x3/lv.svg,2004,23.68,1.475,180.294,408.03
+742,MEX,Mexico,https://flagicons.lipis.dev/flags/4x3/mx.svg,2004,35.048,2.12,242.481,25944.4
+831,NOR,Norway,https://flagicons.lipis.dev/flags/4x3/no.svg,2004,10.062,0.888,377.594,1733.88
+868,NZL,New Zealand,https://flagicons.lipis.dev/flags/4x3/ne.svg,2004,10.767,0.851,213.402,872.28
+883,POL,Poland,https://flagicons.lipis.dev/flags/4x3/pl.svg,2004,31.0,1.819,242.886,9273.93
+904,PRT,Portugal,https://flagicons.lipis.dev/flags/4x3/pt.svg,2004,22.336,2.076,446.21,4678.0
+939,SVK,Slovakia,https://flagicons.lipis.dev/flags/4x3/sk.svg,2004,34.185,2.215,336.67,1808.69
+949,SVN,Slovenia,https://flagicons.lipis.dev/flags/4x3/si.svg,2004,21.234,1.683,383.638,766.13
+1007,SWE,Sweden,https://flagicons.lipis.dev/flags/4x3/se.svg,2004,14.128,1.167,391.6,3521.87
+1035,USA,United States,https://flagicons.lipis.dev/flags/4x3/um.svg,2004,12.505,1.818,762.271,223196.99
+10,AUS,Australia,https://flagicons.lipis.dev/flags/4x3/au.svg,2005,15.218,1.213,432.513,8821.02
+44,AUT,Austria,https://flagicons.lipis.dev/flags/4x3/at.svg,2005,13.325,1.277,445.188,3662.93
+77,BEL,Belgium,https://flagicons.lipis.dev/flags/4x3/be.svg,2005,17.026,1.536,512.107,5366.17
+131,CAN,Canada,https://flagicons.lipis.dev/flags/4x3/ca.svg,2005,18.058,1.637,592.738,19152.55
+171,CHE,Switzerland,https://flagicons.lipis.dev/flags/4x3/ch.svg,2005,10.622,1.089,440.715,3277.65
+211,CZE,Czech Republic,https://flagicons.lipis.dev/flags/4x3/cz.svg,2005,25.7,1.643,360.063,3676.68
+246,DEU,Germany,https://flagicons.lipis.dev/flags/4x3/de.svg,2005,15.387,1.581,512.48,42263.93
+287,DNK,Denmark,https://flagicons.lipis.dev/flags/4x3/dk.svg,2005,8.58,0.78,266.357,1443.5
+316,ESP,Spain,https://flagicons.lipis.dev/flags/4x3/es.svg,2005,20.653,1.585,439.206,19172.73
+332,EST,Estonia,https://flagicons.lipis.dev/flags/4x3/ee.svg,2005,24.026,1.191,196.655,266.42
+356,FIN,Finland,https://flagicons.lipis.dev/flags/4x3/fi.svg,2005,16.109,1.288,412.21,2162.49
+394,FRA,France,https://flagicons.lipis.dev/flags/4x3/fr.svg,2005,17.568,1.788,548.873,34677.44
+463,GRC,Greece,https://flagicons.lipis.dev/flags/4x3/gr.svg,2005,22.338,2.01,514.01,5647.59
+488,HUN,Hungary,https://flagicons.lipis.dev/flags/4x3/hu.svg,2005,31.27,2.511,427.151,4308.7
+503,IRL,Ireland,https://flagicons.lipis.dev/flags/4x3/ie.svg,2005,15.473,1.183,478.511,1990.56
+553,ISL,Iceland,https://flagicons.lipis.dev/flags/4x3/ic.svg,2005,14.433,1.33,491.556,145.86
+597,ITA,Italy,https://flagicons.lipis.dev/flags/4x3/it.svg,2005,20.37,1.703,511.842,29671.22
+632,JPN,Japan,https://flagicons.lipis.dev/flags/4x3/jp.svg,2005,19.794,1.54,487.681,62312.46
+678,KOR,South Korea,https://flagicons.lipis.dev/flags/4x3/kr.svg,2005,28.402,1.443,349.272,16829.52
+704,LTU,Lithuania,https://flagicons.lipis.dev/flags/4x3/lt.svg,2005,34.341,1.937,281.439,935.09
+716,LUX,Luxembourg,https://flagicons.lipis.dev/flags/4x3/lu.svg,2005,10.208,0.733,523.189,243.37
+736,LVA,Latvia,https://flagicons.lipis.dev/flags/4x3/lv.svg,2005,22.548,1.321,182.984,409.66
+741,MEX,Mexico,https://flagicons.lipis.dev/flags/4x3/mx.svg,2005,35.603,2.108,260.194,28223.82
+764,NLD,Netherlands,https://flagicons.lipis.dev/flags/4x3/nl.svg,2005,11.139,1.033,384.808,6280.02
+837,NOR,Norway,https://flagicons.lipis.dev/flags/4x3/no.svg,2005,9.662,0.805,384.641,1778.31
+863,NZL,New Zealand,https://flagicons.lipis.dev/flags/4x3/ne.svg,2005,10.697,0.885,227.251,939.43
+879,POL,Poland,https://flagicons.lipis.dev/flags/4x3/pl.svg,2005,29.762,1.728,240.171,9166.23
+888,PRT,Portugal,https://flagicons.lipis.dev/flags/4x3/pt.svg,2005,22.09,2.084,473.861,4977.12
+938,SVK,Slovakia,https://flagicons.lipis.dev/flags/4x3/sk.svg,2005,33.282,2.196,364.882,1960.44
+950,SVN,Slovenia,https://flagicons.lipis.dev/flags/4x3/si.svg,2005,21.305,1.697,406.336,812.86
+988,SWE,Sweden,https://flagicons.lipis.dev/flags/4x3/se.svg,2005,13.922,1.152,391.434,3534.48
+1025,USA,United States,https://flagicons.lipis.dev/flags/4x3/um.svg,2005,12.471,1.814,803.701,237506.99
+11,AUS,Australia,https://flagicons.lipis.dev/flags/4x3/au.svg,2006,15.276,1.219,461.821,9558.72
+45,AUT,Austria,https://flagicons.lipis.dev/flags/4x3/at.svg,2006,13.37,1.268,474.834,3926.23
+88,BEL,Belgium,https://flagicons.lipis.dev/flags/4x3/be.svg,2006,16.501,1.472,521.218,5497.79
+122,CAN,Canada,https://flagicons.lipis.dev/flags/4x3/ca.svg,2006,18.251,1.68,638.701,20802.81
+172,CHE,Switzerland,https://flagicons.lipis.dev/flags/4x3/ch.svg,2006,10.399,1.02,458.412,3430.73
+210,CZE,Czech Republic,https://flagicons.lipis.dev/flags/4x3/cz.svg,2006,23.478,1.457,346.049,3543.16
+245,DEU,Germany,https://flagicons.lipis.dev/flags/4x3/de.svg,2006,14.983,1.518,527.646,43465.6
+286,DNK,Denmark,https://flagicons.lipis.dev/flags/4x3/dk.svg,2006,8.718,0.799,298.291,1621.89
+317,ESP,Spain,https://flagicons.lipis.dev/flags/4x3/es.svg,2006,19.635,1.523,469.511,20845.03
+335,EST,Estonia,https://flagicons.lipis.dev/flags/4x3/ee.svg,2006,23.76,1.169,225.173,303.27
+357,FIN,Finland,https://flagicons.lipis.dev/flags/4x3/fi.svg,2006,14.67,1.174,403.756,2126.29
+393,FRA,France,https://flagicons.lipis.dev/flags/4x3/fr.svg,2006,17.322,1.74,567.916,36131.6
+462,GRC,Greece,https://flagicons.lipis.dev/flags/4x3/gr.svg,2006,23.613,2.117,604.089,6657.28
+487,HUN,Hungary,https://flagicons.lipis.dev/flags/4x3/hu.svg,2006,31.981,2.507,457.09,4603.52
+502,IRL,Ireland,https://flagicons.lipis.dev/flags/4x3/ie.svg,2006,16.465,1.237,547.146,2338.28
+552,ISL,Iceland,https://flagicons.lipis.dev/flags/4x3/ic.svg,2006,14.218,1.268,491.067,149.18
+596,ITA,Italy,https://flagicons.lipis.dev/flags/4x3/it.svg,2006,20.124,1.702,550.732,32021.75
+633,JPN,Japan,https://flagicons.lipis.dev/flags/4x3/jp.svg,2006,19.789,1.545,510.598,65282.0
+679,KOR,South Korea,https://flagicons.lipis.dev/flags/4x3/kr.svg,2006,28.304,1.556,401.881,19466.43
+696,LTU,Lithuania,https://flagicons.lipis.dev/flags/4x3/lt.svg,2006,30.993,1.809,298.436,975.86
+722,LUX,Luxembourg,https://flagicons.lipis.dev/flags/4x3/lu.svg,2006,10.198,0.684,560.575,264.95
+735,LVA,Latvia,https://flagicons.lipis.dev/flags/4x3/lv.svg,2006,23.176,1.33,209.574,464.91
+740,MEX,Mexico,https://flagicons.lipis.dev/flags/4x3/mx.svg,2006,34.725,1.984,267.984,29503.0
+765,NLD,Netherlands,https://flagicons.lipis.dev/flags/4x3/nl.svg,2006,10.857,0.997,404.948,6619.32
+833,NOR,Norway,https://flagicons.lipis.dev/flags/4x3/no.svg,2006,9.232,0.731,395.454,1843.08
+860,NZL,New Zealand,https://flagicons.lipis.dev/flags/4x3/ne.svg,2006,11.308,0.976,271.073,1134.33
+878,POL,Poland,https://flagicons.lipis.dev/flags/4x3/pl.svg,2006,28.819,1.672,253.274,9660.19
+901,PRT,Portugal,https://flagicons.lipis.dev/flags/4x3/pt.svg,2006,22.342,2.041,503.565,5298.66
+923,PSE,Palestine,https://flagicons.lipis.dev/flags/4x3/pa.svg,2006,13.293,0.923,236.833,1670.55
+937,SVK,Slovakia,https://flagicons.lipis.dev/flags/4x3/sk.svg,2006,31.128,2.136,403.152,2166.16
+951,SVN,Slovenia,https://flagicons.lipis.dev/flags/4x3/si.svg,2006,21.146,1.65,425.293,853.51
+989,SWE,Sweden,https://flagicons.lipis.dev/flags/4x3/se.svg,2006,13.952,1.139,426.3,3871.02
+1026,USA,United States,https://flagicons.lipis.dev/flags/4x3/um.svg,2006,12.725,1.866,866.302,258487.11
+12,AUS,Australia,https://flagicons.lipis.dev/flags/4x3/au.svg,2007,15.201,1.225,485.887,10119.86
+46,AUT,Austria,https://flagicons.lipis.dev/flags/4x3/at.svg,2007,13.605,1.289,504.849,4187.97
+79,BEL,Belgium,https://flagicons.lipis.dev/flags/4x3/be.svg,2007,16.676,1.493,550.12,5845.41
+123,CAN,Canada,https://flagicons.lipis.dev/flags/4x3/ca.svg,2007,18.052,1.679,662.072,21774.18
+173,CHE,Switzerland,https://flagicons.lipis.dev/flags/4x3/ch.svg,2007,10.305,0.993,491.141,3708.66
+209,CZE,Czech Republic,https://flagicons.lipis.dev/flags/4x3/cz.svg,2007,22.213,1.339,348.982,3594.11
+244,DEU,Germany,https://flagicons.lipis.dev/flags/4x3/de.svg,2007,15.321,1.53,566.139,46574.2
+292,DNK,Denmark,https://flagicons.lipis.dev/flags/4x3/dk.svg,2007,8.886,0.829,322.787,1762.88
+318,ESP,Spain,https://flagicons.lipis.dev/flags/4x3/es.svg,2007,19.01,1.49,485.437,21954.76
+334,EST,Estonia,https://flagicons.lipis.dev/flags/4x3/ee.svg,2007,21.745,1.093,240.063,321.85
+358,FIN,Finland,https://flagicons.lipis.dev/flags/4x3/fi.svg,2007,14.676,1.149,432.867,2289.31
+395,FRA,France,https://flagicons.lipis.dev/flags/4x3/fr.svg,2007,17.21,1.714,587.233,37592.44
+461,GRC,Greece,https://flagicons.lipis.dev/flags/4x3/gr.svg,2007,25.798,2.337,684.401,7561.59
+486,HUN,Hungary,https://flagicons.lipis.dev/flags/4x3/hu.svg,2007,31.617,2.294,434.32,4367.43
+501,IRL,Ireland,https://flagicons.lipis.dev/flags/4x3/ie.svg,2007,16.356,1.276,596.486,2623.91
+549,ISL,Iceland,https://flagicons.lipis.dev/flags/4x3/ic.svg,2007,13.505,1.178,479.64,149.44
+595,ITA,Italy,https://flagicons.lipis.dev/flags/4x3/it.svg,2007,20.002,1.633,554.861,32425.14
+634,JPN,Japan,https://flagicons.lipis.dev/flags/4x3/jp.svg,2007,19.972,1.576,544.008,69633.57
+664,KOR,South Korea,https://flagicons.lipis.dev/flags/4x3/kr.svg,2007,27.062,1.532,426.283,20753.01
+698,LTU,Lithuania,https://flagicons.lipis.dev/flags/4x3/lt.svg,2007,28.47,1.639,312.933,1011.18
+715,LUX,Luxembourg,https://flagicons.lipis.dev/flags/4x3/lu.svg,2007,10.673,0.665,588.312,282.39
+734,LVA,Latvia,https://flagicons.lipis.dev/flags/4x3/lv.svg,2007,26.523,1.53,277.258,610.06
+739,MEX,Mexico,https://flagicons.lipis.dev/flags/4x3/mx.svg,2007,33.928,1.974,279.012,31203.68
+775,NLD,Netherlands,https://flagicons.lipis.dev/flags/4x3/nl.svg,2007,11.004,1.016,441.76,7236.78
+843,NOR,Norway,https://flagicons.lipis.dev/flags/4x3/no.svg,2007,8.579,0.691,385.796,1816.77
+859,NZL,New Zealand,https://flagicons.lipis.dev/flags/4x3/ne.svg,2007,10.394,0.865,254.188,1073.64
+877,POL,Poland,https://flagicons.lipis.dev/flags/4x3/pl.svg,2007,26.54,1.559,261.569,9971.16
+900,PRT,Portugal,https://flagicons.lipis.dev/flags/4x3/pt.svg,2007,22.136,2.007,515.673,5436.72
+929,PSE,Palestine,https://flagicons.lipis.dev/flags/4x3/pa.svg,2007,13.57,0.938,257.901,1851.75
+936,SVK,Slovakia,https://flagicons.lipis.dev/flags/4x3/sk.svg,2007,29.372,2.112,446.793,2401.34
+952,SVN,Slovenia,https://flagicons.lipis.dev/flags/4x3/si.svg,2007,20.077,1.505,415.215,837.95
+990,SWE,Sweden,https://flagicons.lipis.dev/flags/4x3/se.svg,2007,13.704,1.106,448.828,4105.92
+1034,USA,United States,https://flagicons.lipis.dev/flags/4x3/um.svg,2007,12.641,1.884,905.301,272704.91
+13,AUS,Australia,https://flagicons.lipis.dev/flags/4x3/au.svg,2008,15.412,1.273,510.172,10840.75
+47,AUT,Austria,https://flagicons.lipis.dev/flags/4x3/at.svg,2008,13.606,1.311,538.253,4479.07
+80,BEL,Belgium,https://flagicons.lipis.dev/flags/4x3/be.svg,2008,16.407,1.532,584.31,6257.94
+124,CAN,Canada,https://flagicons.lipis.dev/flags/4x3/ca.svg,2008,17.828,1.687,679.645,22595.32
+174,CHE,Switzerland,https://flagicons.lipis.dev/flags/4x3/ch.svg,2008,10.137,0.991,518.695,3966.81
+208,CZE,Czech Republic,https://flagicons.lipis.dev/flags/4x3/cz.svg,2008,20.906,1.332,370.216,3844.55
+234,DEU,Germany,https://flagicons.lipis.dev/flags/4x3/de.svg,2008,15.339,1.562,603.742,49573.31
+285,DNK,Denmark,https://flagicons.lipis.dev/flags/4x3/dk.svg,2008,8.328,0.792,326.956,1796.17
+319,ESP,Spain,https://flagicons.lipis.dev/flags/4x3/es.svg,2008,18.494,1.533,512.994,23574.18
+333,EST,Estonia,https://flagicons.lipis.dev/flags/4x3/ee.svg,2008,18.788,1.081,244.933,327.5
+359,FIN,Finland,https://flagicons.lipis.dev/flags/4x3/fi.svg,2008,14.585,1.179,471.269,2504.04
+404,FRA,France,https://flagicons.lipis.dev/flags/4x3/fr.svg,2008,17.044,1.722,607.178,39087.08
+485,HUN,Hungary,https://flagicons.lipis.dev/flags/4x3/hu.svg,2008,31.912,2.277,468.726,4705.16
+515,IRL,Ireland,https://flagicons.lipis.dev/flags/4x3/ie.svg,2008,15.953,1.453,643.036,2886.94
+550,ISL,Iceland,https://flagicons.lipis.dev/flags/4x3/ic.svg,2008,14.572,1.27,542.052,172.05
+594,ITA,Italy,https://flagicons.lipis.dev/flags/4x3/it.svg,2008,19.185,1.643,581.535,34209.8
+635,JPN,Japan,https://flagicons.lipis.dev/flags/4x3/jp.svg,2008,19.9,1.632,567.72,72703.93
+663,KOR,South Korea,https://flagicons.lipis.dev/flags/4x3/kr.svg,2008,26.569,1.546,442.9,21726.33
+694,LTU,Lithuania,https://flagicons.lipis.dev/flags/4x3/lt.svg,2008,26.126,1.643,340.758,1089.82
+714,LUX,Luxembourg,https://flagicons.lipis.dev/flags/4x3/lu.svg,2008,10.226,0.669,611.498,298.81
+738,LVA,Latvia,https://flagicons.lipis.dev/flags/4x3/lv.svg,2008,21.484,1.209,234.848,511.34
+747,MEX,Mexico,https://flagicons.lipis.dev/flags/4x3/mx.svg,2008,33.143,1.904,280.672,31901.69
+756,NLD,Netherlands,https://flagicons.lipis.dev/flags/4x3/nl.svg,2008,10.33,0.982,450.402,7407.13
+844,NOR,Norway,https://flagicons.lipis.dev/flags/4x3/no.svg,2008,7.95,0.633,390.574,1862.34
+876,POL,Poland,https://flagicons.lipis.dev/flags/4x3/pl.svg,2008,24.605,1.568,287.143,10947.54
+899,PRT,Portugal,https://flagicons.lipis.dev/flags/4x3/pt.svg,2008,21.184,1.981,527.624,5570.75
+930,PSE,Palestine,https://flagicons.lipis.dev/flags/4x3/pa.svg,2008,13.389,0.937,256.823,1877.07
+935,SVK,Slovakia,https://flagicons.lipis.dev/flags/4x3/sk.svg,2008,30.159,2.101,497.76,2677.57
+953,SVN,Slovenia,https://flagicons.lipis.dev/flags/4x3/si.svg,2008,19.07,1.497,443.436,896.32
+992,SWE,Sweden,https://flagicons.lipis.dev/flags/4x3/se.svg,2008,13.65,1.135,474.925,4378.64
+1020,USA,United States,https://flagicons.lipis.dev/flags/4x3/um.svg,2008,12.399,1.896,917.815,279102.0
+14,AUS,Australia,https://flagicons.lipis.dev/flags/4x3/au.svg,2009,15.535,1.334,553.724,12011.21
+48,AUT,Austria,https://flagicons.lipis.dev/flags/4x3/at.svg,2009,12.53,1.271,517.265,4315.71
+81,BEL,Belgium,https://flagicons.lipis.dev/flags/4x3/be.svg,2009,15.792,1.59,605.096,6532.91
+125,CAN,Canada,https://flagicons.lipis.dev/flags/4x3/ca.svg,2009,17.824,1.885,731.121,24586.55
+175,CHE,Switzerland,https://flagicons.lipis.dev/flags/4x3/ch.svg,2009,10.134,1.053,543.521,4208.93
+207,CZE,Czech Republic,https://flagicons.lipis.dev/flags/4x3/cz.svg,2009,22.139,1.618,446.076,4658.79
+243,DEU,Germany,https://flagicons.lipis.dev/flags/4x3/de.svg,2009,15.207,1.698,640.783,52481.61
+283,DNK,Denmark,https://flagicons.lipis.dev/flags/4x3/dk.svg,2009,7.613,0.813,328.132,1812.3
+320,ESP,Spain,https://flagicons.lipis.dev/flags/4x3/es.svg,2009,18.252,1.641,531.957,24663.09
+342,EST,Estonia,https://flagicons.lipis.dev/flags/4x3/ee.svg,2009,19.983,1.307,268.334,358.1
+343,FIN,Finland,https://flagicons.lipis.dev/flags/4x3/fi.svg,2009,14.059,1.247,472.342,2521.77
+397,FRA,France,https://flagicons.lipis.dev/flags/4x3/fr.svg,2009,16.623,1.796,626.498,40538.83
+460,GRC,Greece,https://flagicons.lipis.dev/flags/4x3/gr.svg,2009,27.171,2.573,782.011,8685.81
+484,HUN,Hungary,https://flagicons.lipis.dev/flags/4x3/hu.svg,2009,32.863,2.394,492.437,4935.52
+532,IRL,Ireland,https://flagicons.lipis.dev/flags/4x3/ie.svg,2009,15.135,1.591,661.276,2999.13
+560,ISL,Iceland,https://flagicons.lipis.dev/flags/4x3/ic.svg,2009,15.665,1.419,582.697,185.59
+593,ITA,Italy,https://flagicons.lipis.dev/flags/4x3/it.svg,2009,18.964,1.702,588.13,34755.76
+636,JPN,Japan,https://flagicons.lipis.dev/flags/4x3/jp.svg,2009,20.982,1.901,629.162,80562.31
+680,KOR,South Korea,https://flagicons.lipis.dev/flags/4x3/kr.svg,2009,26.122,1.662,470.691,23208.75
+697,LTU,Lithuania,https://flagicons.lipis.dev/flags/4x3/lt.svg,2009,26.661,1.961,356.225,1126.71
+713,LUX,Luxembourg,https://flagicons.lipis.dev/flags/4x3/lu.svg,2009,9.86,0.724,630.377,313.79
+732,LVA,Latvia,https://flagicons.lipis.dev/flags/4x3/lv.svg,2009,24.354,1.499,253.112,542.08
+750,MEX,Mexico,https://flagicons.lipis.dev/flags/4x3/mx.svg,2009,32.454,2.004,288.566,33330.88
+766,NLD,Netherlands,https://flagicons.lipis.dev/flags/4x3/nl.svg,2009,9.983,1.022,450.574,7448.16
+845,NOR,Norway,https://flagicons.lipis.dev/flags/4x3/no.svg,2009,7.606,0.69,382.607,1847.5
+875,POL,Poland,https://flagicons.lipis.dev/flags/4x3/pl.svg,2009,24.574,1.619,311.849,11897.54
+898,PRT,Portugal,https://flagicons.lipis.dev/flags/4x3/pt.svg,2009,20.154,1.991,527.548,5575.26
+924,PSE,Palestine,https://flagicons.lipis.dev/flags/4x3/pa.svg,2009,13.974,0.991,272.317,2038.46
+934,SVK,Slovakia,https://flagicons.lipis.dev/flags/4x3/sk.svg,2009,29.429,2.342,540.515,2911.43
+962,SVN,Slovenia,https://flagicons.lipis.dev/flags/4x3/si.svg,2009,19.75,1.691,465.075,948.6
+993,SWE,Sweden,https://flagicons.lipis.dev/flags/4x3/se.svg,2009,13.475,1.205,478.419,4448.59
+1033,USA,United States,https://flagicons.lipis.dev/flags/4x3/um.svg,2009,12.331,2.015,946.894,290480.12
+15,AUS,Australia,https://flagicons.lipis.dev/flags/4x3/au.svg,2010,15.63,1.324,563.857,12422.76
+54,AUT,Austria,https://flagicons.lipis.dev/flags/4x3/at.svg,2010,12.368,1.251,524.143,4383.62
+82,BEL,Belgium,https://flagicons.lipis.dev/flags/4x3/be.svg,2010,15.677,1.555,623.97,6798.52
+126,CAN,Canada,https://flagicons.lipis.dev/flags/4x3/ca.svg,2010,18.471,1.951,780.901,26554.75
+176,CHE,Switzerland,https://flagicons.lipis.dev/flags/4x3/ch.svg,2010,14.503,1.558,824.671,6452.98
+212,CZE,Czech Republic,https://flagicons.lipis.dev/flags/4x3/cz.svg,2010,20.418,1.418,392.131,4107.34
+242,DEU,Germany,https://flagicons.lipis.dev/flags/4x3/de.svg,2010,14.968,1.652,660.571,54019.47
+282,DNK,Denmark,https://flagicons.lipis.dev/flags/4x3/dk.svg,2010,7.696,0.798,344.01,1908.46
+321,ESP,Spain,https://flagicons.lipis.dev/flags/4x3/es.svg,2010,18.192,1.641,524.963,24451.15
+331,EST,Estonia,https://flagicons.lipis.dev/flags/4x3/ee.svg,2010,20.458,1.296,280.186,373.06
+344,FIN,Finland,https://flagicons.lipis.dev/flags/4x3/fi.svg,2010,13.512,1.198,465.105,2494.52
+398,FRA,France,https://flagicons.lipis.dev/flags/4x3/fr.svg,2010,16.358,1.752,633.393,41187.97
+459,GRC,Greece,https://flagicons.lipis.dev/flags/4x3/gr.svg,2010,28.633,2.737,771.997,8585.64
+483,HUN,Hungary,https://flagicons.lipis.dev/flags/4x3/hu.svg,2010,33.273,2.515,539.855,5398.56
+539,IRL,Ireland,https://flagicons.lipis.dev/flags/4x3/ie.svg,2010,14.815,1.562,674.956,3077.9
+548,ISL,Iceland,https://flagicons.lipis.dev/flags/4x3/ic.svg,2010,15.813,1.393,535.019,170.16
+592,ITA,Italy,https://flagicons.lipis.dev/flags/4x3/it.svg,2010,18.75,1.679,588.861,34906.16
+637,JPN,Japan,https://flagicons.lipis.dev/flags/4x3/jp.svg,2010,20.473,1.875,656.131,84030.7
+661,KOR,South Korea,https://flagicons.lipis.dev/flags/4x3/kr.svg,2010,26.205,1.705,517.801,25659.17
+699,LTU,Lithuania,https://flagicons.lipis.dev/flags/4x3/lt.svg,2010,26.716,1.821,366.563,1135.35
+708,LUX,Luxembourg,https://flagicons.lipis.dev/flags/4x3/lu.svg,2010,9.668,0.68,617.448,313.02
+731,LVA,Latvia,https://flagicons.lipis.dev/flags/4x3/lv.svg,2010,25.794,1.586,279.009,585.24
+748,MEX,Mexico,https://flagicons.lipis.dev/flags/4x3/mx.svg,2010,31.497,1.896,287.049,33676.28
+768,NLD,Netherlands,https://flagicons.lipis.dev/flags/4x3/nl.svg,2010,9.817,1.021,455.318,7565.29
+841,NOR,Norway,https://flagicons.lipis.dev/flags/4x3/no.svg,2010,7.653,0.682,395.456,1933.48
+874,POL,Poland,https://flagicons.lipis.dev/flags/4x3/pl.svg,2010,24.333,1.562,329.4,12531.3
+897,PRT,Portugal,https://flagicons.lipis.dev/flags/4x3/pt.svg,2010,19.269,1.892,517.697,5473.66
+925,PSE,Palestine,https://flagicons.lipis.dev/flags/4x3/pa.svg,2010,13.577,0.957,276.113,2104.98
+933,SVK,Slovakia,https://flagicons.lipis.dev/flags/4x3/sk.svg,2010,29.198,2.278,569.68,3071.39
+955,SVN,Slovenia,https://flagicons.lipis.dev/flags/4x3/si.svg,2010,19.847,1.699,472.268,967.48
+994,SWE,Sweden,https://flagicons.lipis.dev/flags/4x3/se.svg,2010,13.301,1.129,470.326,4410.78
+1032,USA,United States,https://flagicons.lipis.dev/flags/4x3/um.svg,2010,11.938,1.957,946.859,292909.12
+16,AUS,Australia,https://flagicons.lipis.dev/flags/4x3/au.svg,2011,15.311,1.315,580.921,12977.79
+50,AUT,Austria,https://flagicons.lipis.dev/flags/4x3/at.svg,2011,12.473,1.236,546.783,4588.41
+78,BEL,Belgium,https://flagicons.lipis.dev/flags/4x3/be.svg,2011,15.345,1.547,638.092,7049.48
+127,CAN,Canada,https://flagicons.lipis.dev/flags/4x3/ca.svg,2011,18.32,1.872,778.209,26725.86
+177,CHE,Switzerland,https://flagicons.lipis.dev/flags/4x3/ch.svg,2011,14.439,1.562,873.221,6909.27
+205,CZE,Czech Republic,https://flagicons.lipis.dev/flags/4x3/cz.svg,2011,20.432,1.426,410.511,4308.76
+241,DEU,Germany,https://flagicons.lipis.dev/flags/4x3/de.svg,2011,14.255,1.532,654.053,52504.09
+277,DNK,Denmark,https://flagicons.lipis.dev/flags/4x3/dk.svg,2011,7.819,0.797,354.029,1972.14
+325,ESP,Spain,https://flagicons.lipis.dev/flags/4x3/es.svg,2011,17.78,1.617,518.368,24229.92
+329,EST,Estonia,https://flagicons.lipis.dev/flags/4x3/ee.svg,2011,19.87,1.157,283.959,376.94
+360,FIN,Finland,https://flagicons.lipis.dev/flags/4x3/fi.svg,2011,12.919,1.156,470.342,2534.33
+399,FRA,France,https://flagicons.lipis.dev/flags/4x3/fr.svg,2011,16.072,1.724,647.845,42331.99
+458,GRC,Greece,https://flagicons.lipis.dev/flags/4x3/gr.svg,2011,30.742,2.797,731.159,8119.45
+482,HUN,Hungary,https://flagicons.lipis.dev/flags/4x3/hu.svg,2011,35.001,2.653,603.042,6013.37
+534,IRL,Ireland,https://flagicons.lipis.dev/flags/4x3/ie.svg,2011,14.415,1.432,651.311,2980.92
+547,ISL,Iceland,https://flagicons.lipis.dev/flags/4x3/ic.svg,2011,15.148,1.309,516.634,164.81
+591,ITA,Italy,https://flagicons.lipis.dev/flags/4x3/it.svg,2011,18.544,1.638,595.488,35359.75
+616,JPN,Japan,https://flagicons.lipis.dev/flags/4x3/jp.svg,2011,18.911,2.008,718.256,91816.82
+648,KOR,South Korea,https://flagicons.lipis.dev/flags/4x3/kr.svg,2011,25.755,1.689,527.496,26341.38
+705,LTU,Lithuania,https://flagicons.lipis.dev/flags/4x3/lt.svg,2011,26.038,1.692,386.589,1170.64
+712,LUX,Luxembourg,https://flagicons.lipis.dev/flags/4x3/lu.svg,2011,8.877,0.543,529.962,274.7
+730,LVA,Latvia,https://flagicons.lipis.dev/flags/4x3/lv.svg,2011,26.092,1.454,287.478,592.12
+751,MEX,Mexico,https://flagicons.lipis.dev/flags/4x3/mx.svg,2011,28.201,1.623,265.79,31652.94
+769,NLD,Netherlands,https://flagicons.lipis.dev/flags/4x3/nl.svg,2011,9.53,1.003,461.879,7710.18
+840,NOR,Norway,https://flagicons.lipis.dev/flags/4x3/no.svg,2011,7.998,0.703,436.365,2161.35
+872,POL,Poland,https://flagicons.lipis.dev/flags/4x3/pl.svg,2011,24.148,1.505,343.987,13093.26
+896,PRT,Portugal,https://flagicons.lipis.dev/flags/4x3/pt.svg,2011,18.373,1.751,468.954,4951.01
+926,PSE,Palestine,https://flagicons.lipis.dev/flags/4x3/pa.svg,2011,13.388,0.938,286.345,2223.7
+932,SVK,Slovakia,https://flagicons.lipis.dev/flags/4x3/sk.svg,2011,28.72,2.131,550.42,2971.38
+956,SVN,Slovenia,https://flagicons.lipis.dev/flags/4x3/si.svg,2011,19.633,1.677,482.969,991.46
+996,SWE,Sweden,https://flagicons.lipis.dev/flags/4x3/se.svg,2011,10.245,1.094,478.705,4523.39
+1031,USA,United States,https://flagicons.lipis.dev/flags/4x3/um.svg,2011,11.855,1.939,965.58,300935.91
+17,AUS,Australia,https://flagicons.lipis.dev/flags/4x3/au.svg,2012,15.308,1.336,582.874,13247.71
+56,AUT,Austria,https://flagicons.lipis.dev/flags/4x3/at.svg,2012,12.181,1.234,570.525,4809.52
+84,BEL,Belgium,https://flagicons.lipis.dev/flags/4x3/be.svg,2012,14.599,1.487,629.735,7007.85
+128,CAN,Canada,https://flagicons.lipis.dev/flags/4x3/ca.svg,2012,17.883,1.828,770.464,26774.04
+168,CHE,Switzerland,https://flagicons.lipis.dev/flags/4x3/ch.svg,2012,14.307,1.588,914.396,7312.3
+204,CZE,Czech Republic,https://flagicons.lipis.dev/flags/4x3/cz.svg,2012,21.496,1.511,438.857,4612.73
+240,DEU,Germany,https://flagicons.lipis.dev/flags/4x3/de.svg,2012,14.102,1.524,663.777,53384.81
+278,DNK,Denmark,https://flagicons.lipis.dev/flags/4x3/dk.svg,2012,7.395,0.759,340.25,1902.53
+324,ESP,Spain,https://flagicons.lipis.dev/flags/4x3/es.svg,2012,17.652,1.602,512.297,23961.7
+330,EST,Estonia,https://flagicons.lipis.dev/flags/4x3/ee.svg,2012,20.15,1.174,305.562,404.17
+361,FIN,Finland,https://flagicons.lipis.dev/flags/4x3/fi.svg,2012,12.622,1.173,476.358,2578.99
+400,FRA,France,https://flagicons.lipis.dev/flags/4x3/fr.svg,2012,15.572,1.686,636.86,41816.09
+457,GRC,Greece,https://flagicons.lipis.dev/flags/4x3/gr.svg,2012,29.055,2.55,644.747,7121.24
+481,HUN,Hungary,https://flagicons.lipis.dev/flags/4x3/hu.svg,2012,32.579,2.443,561.746,5572.72
+535,IRL,Ireland,https://flagicons.lipis.dev/flags/4x3/ie.svg,2012,14.091,1.418,659.933,3027.04
+546,ISL,Iceland,https://flagicons.lipis.dev/flags/4x3/ic.svg,2012,14.454,1.256,508.582,163.11
+613,ITA,Italy,https://flagicons.lipis.dev/flags/4x3/it.svg,2012,16.571,1.484,537.784,32019.51
+638,JPN,Japan,https://flagicons.lipis.dev/flags/4x3/jp.svg,2012,18.887,2.038,758.189,96766.9
+649,KOR,South Korea,https://flagicons.lipis.dev/flags/4x3/kr.svg,2012,24.809,1.669,535.718,26892.96
+701,LTU,Lithuania,https://flagicons.lipis.dev/flags/4x3/lt.svg,2012,28.942,1.82,448.728,1340.7
+711,LUX,Luxembourg,https://flagicons.lipis.dev/flags/4x3/lu.svg,2012,8.56,0.563,548.101,291.01
+733,LVA,Latvia,https://flagicons.lipis.dev/flags/4x3/lv.svg,2012,25.519,1.383,293.962,598.01
+752,MEX,Mexico,https://flagicons.lipis.dev/flags/4x3/mx.svg,2012,28.765,1.704,289.344,34960.95
+770,NLD,Netherlands,https://flagicons.lipis.dev/flags/4x3/nl.svg,2012,8.277,0.903,421.533,7062.77
+839,NOR,Norway,https://flagicons.lipis.dev/flags/4x3/no.svg,2012,7.733,0.679,443.629,2226.38
+873,POL,Poland,https://flagicons.lipis.dev/flags/4x3/pl.svg,2012,22.255,1.38,328.913,12519.47
+893,PRT,Portugal,https://flagicons.lipis.dev/flags/4x3/pt.svg,2012,16.638,1.555,411.465,4326.49
+927,PSE,Palestine,https://flagicons.lipis.dev/flags/4x3/pa.svg,2012,13.213,0.941,298.796,2363.63
+943,SVK,Slovakia,https://flagicons.lipis.dev/flags/4x3/sk.svg,2012,26.544,2.026,539.956,2919.85
+957,SVN,Slovenia,https://flagicons.lipis.dev/flags/4x3/si.svg,2012,20.247,1.767,509.632,1048.39
+997,SWE,Sweden,https://flagicons.lipis.dev/flags/4x3/se.svg,2012,10.149,1.11,496.505,4726.42
+1030,USA,United States,https://flagicons.lipis.dev/flags/4x3/um.svg,2012,11.459,1.874,964.237,302768.85
+18,AUS,Australia,https://flagicons.lipis.dev/flags/4x3/au.svg,2013,14.989,1.32,627.402,14503.87
+51,AUT,Austria,https://flagicons.lipis.dev/flags/4x3/at.svg,2013,12.222,1.245,594.13,5037.85
+85,BEL,Belgium,https://flagicons.lipis.dev/flags/4x3/be.svg,2013,14.273,1.48,642.958,7190.08
+129,CAN,Canada,https://flagicons.lipis.dev/flags/4x3/ca.svg,2013,17.575,1.778,783.949,27560.08
+179,CHE,Switzerland,https://flagicons.lipis.dev/flags/4x3/ch.svg,2013,14.083,1.6,956.715,7739.2
+206,CZE,Czech Republic,https://flagicons.lipis.dev/flags/4x3/cz.svg,2013,17.932,1.384,421.887,4435.83
+239,DEU,Germany,https://flagicons.lipis.dev/flags/4x3/de.svg,2013,13.995,1.535,694.318,55993.7
+279,DNK,Denmark,https://flagicons.lipis.dev/flags/4x3/dk.svg,2013,6.896,0.704,329.056,1847.63
+323,ESP,Spain,https://flagicons.lipis.dev/flags/4x3/es.svg,2013,18.679,1.685,549.259,25606.48
+328,EST,Estonia,https://flagicons.lipis.dev/flags/4x3/ee.svg,2013,19.327,1.164,319.351,420.9
+362,FIN,Finland,https://flagicons.lipis.dev/flags/4x3/fi.svg,2013,12.471,1.184,488.809,2658.62
+401,FRA,France,https://flagicons.lipis.dev/flags/4x3/fr.svg,2013,14.995,1.639,649.403,42859.67
+427,GBR,United Kingdom,https://flagicons.lipis.dev/flags/4x3/gb.svg,2013,12.185,1.201,468.513,30044.91
+456,GRC,Greece,https://flagicons.lipis.dev/flags/4x3/gr.svg,2013,27.742,2.312,603.509,6617.6
+480,HUN,Hungary,https://flagicons.lipis.dev/flags/4x3/hu.svg,2013,30.293,2.208,537.976,5322.24
+536,IRL,Ireland,https://flagicons.lipis.dev/flags/4x3/ie.svg,2013,14.513,1.512,730.484,3358.98
+545,ISL,Iceland,https://flagicons.lipis.dev/flags/4x3/ic.svg,2013,13.531,1.177,501.667,162.42
+586,ITA,Italy,https://flagicons.lipis.dev/flags/4x3/it.svg,2013,16.98,1.52,549.218,33081.57
+639,JPN,Japan,https://flagicons.lipis.dev/flags/4x3/jp.svg,2013,18.854,2.035,793.169,101085.42
+650,KOR,South Korea,https://flagicons.lipis.dev/flags/4x3/kr.svg,2013,23.622,1.631,531.999,26828.12
+702,LTU,Lithuania,https://flagicons.lipis.dev/flags/4x3/lt.svg,2013,28.173,1.728,461.178,1364.02
+710,LUX,Luxembourg,https://flagicons.lipis.dev/flags/4x3/lu.svg,2013,8.424,0.552,563.787,306.34
+729,LVA,Latvia,https://flagicons.lipis.dev/flags/4x3/lv.svg,2013,26.284,1.419,321.85,647.77
+753,MEX,Mexico,https://flagicons.lipis.dev/flags/4x3/mx.svg,2013,27.35,1.645,283.955,34794.7
+771,NLD,Netherlands,https://flagicons.lipis.dev/flags/4x3/nl.svg,2013,7.757,0.845,411.405,6913.43
+838,NOR,Norway,https://flagicons.lipis.dev/flags/4x3/no.svg,2013,7.589,0.678,453.76,2304.93
+882,POL,Poland,https://flagicons.lipis.dev/flags/4x3/pl.svg,2013,21.704,1.384,342.047,13011.53
+892,PRT,Portugal,https://flagicons.lipis.dev/flags/4x3/pt.svg,2013,15.613,1.419,395.927,4140.33
+928,PSE,Palestine,https://flagicons.lipis.dev/flags/4x3/pa.svg,2013,12.924,0.915,313.203,2524.26
+944,SVK,Slovakia,https://flagicons.lipis.dev/flags/4x3/sk.svg,2013,26.535,1.998,557.263,3016.68
+958,SVN,Slovenia,https://flagicons.lipis.dev/flags/4x3/si.svg,2013,20.358,1.783,526.46,1084.48
+998,SWE,Sweden,https://flagicons.lipis.dev/flags/4x3/se.svg,2013,9.846,1.093,499.194,4792.45
+1029,USA,United States,https://flagicons.lipis.dev/flags/4x3/um.svg,2013,11.384,1.858,980.864,310154.01
+19,AUS,Australia,https://flagicons.lipis.dev/flags/4x3/au.svg,2014,14.386,1.306,616.997,14475.18
+49,AUT,Austria,https://flagicons.lipis.dev/flags/4x3/at.svg,2014,12.324,1.268,616.256,5263.8
+86,BEL,Belgium,https://flagicons.lipis.dev/flags/4x3/be.svg,2014,13.851,1.44,644.954,7229.33
+121,CAN,Canada,https://flagicons.lipis.dev/flags/4x3/ca.svg,2014,17.453,1.743,785.811,27931.31
+180,CHE,Switzerland,https://flagicons.lipis.dev/flags/4x3/ch.svg,2014,13.895,1.61,985.969,8073.75
+202,CZE,Czech Republic,https://flagicons.lipis.dev/flags/4x3/cz.svg,2014,17.109,1.293,418.414,4403.95
+238,DEU,Germany,https://flagicons.lipis.dev/flags/4x3/de.svg,2014,14.359,1.587,746.704,60469.96
+280,DNK,Denmark,https://flagicons.lipis.dev/flags/4x3/dk.svg,2014,6.757,0.693,331.484,1870.72
+296,ESP,Spain,https://flagicons.lipis.dev/flags/4x3/es.svg,2014,17.909,1.627,547.538,25450.05
+327,EST,Estonia,https://flagicons.lipis.dev/flags/4x3/ee.svg,2014,18.703,1.162,331.543,435.83
+363,FIN,Finland,https://flagicons.lipis.dev/flags/4x3/fi.svg,2014,12.327,1.169,485.113,2649.45
+396,FRA,France,https://flagicons.lipis.dev/flags/4x3/fr.svg,2014,15.009,1.666,670.042,44445.2
+428,GBR,United Kingdom,https://flagicons.lipis.dev/flags/4x3/gb.svg,2014,12.049,1.181,480.649,31056.25
+455,GRC,Greece,https://flagicons.lipis.dev/flags/4x3/gr.svg,2014,26.701,2.12,560.435,6104.49
+479,HUN,Hungary,https://flagicons.lipis.dev/flags/4x3/hu.svg,2014,30.173,2.155,549.292,5419.57
+537,IRL,Ireland,https://flagicons.lipis.dev/flags/4x3/ie.svg,2014,14.064,1.394,714.747,3300.15
+544,ISL,Iceland,https://flagicons.lipis.dev/flags/4x3/ic.svg,2014,12.581,1.105,489.466,160.24
+588,ITA,Italy,https://flagicons.lipis.dev/flags/4x3/it.svg,2014,16.944,1.527,554.181,33688.19
+640,JPN,Japan,https://flagicons.lipis.dev/flags/4x3/jp.svg,2014,18.803,2.037,802.733,102168.65
+652,KOR,South Korea,https://flagicons.lipis.dev/flags/4x3/kr.svg,2014,22.87,1.629,548.01,27809.68
+703,LTU,Lithuania,https://flagicons.lipis.dev/flags/4x3/lt.svg,2014,27.836,1.724,485.245,1422.92
+709,LUX,Luxembourg,https://flagicons.lipis.dev/flags/4x3/lu.svg,2014,8.192,0.513,561.164,312.19
+728,LVA,Latvia,https://flagicons.lipis.dev/flags/4x3/lv.svg,2014,26.845,1.473,351.889,701.59
+754,MEX,Mexico,https://flagicons.lipis.dev/flags/4x3/mx.svg,2014,27.011,1.537,277.229,34437.83
+772,NLD,Netherlands,https://flagicons.lipis.dev/flags/4x3/nl.svg,2014,7.638,0.829,406.47,6855.12
+842,NOR,Norway,https://flagicons.lipis.dev/flags/4x3/no.svg,2014,7.49,0.7,459.597,2361.06
+871,POL,Poland,https://flagicons.lipis.dev/flags/4x3/pl.svg,2014,21.468,1.341,344.854,13108.5
+895,PRT,Portugal,https://flagicons.lipis.dev/flags/4x3/pt.svg,2014,15.398,1.389,400.196,4162.46
+947,SVK,Slovakia,https://flagicons.lipis.dev/flags/4x3/sk.svg,2014,27.029,1.871,542.885,2941.7
+959,SVN,Slovenia,https://flagicons.lipis.dev/flags/4x3/si.svg,2014,18.606,1.589,492.577,1015.68
+963,SWE,Sweden,https://flagicons.lipis.dev/flags/4x3/se.svg,2014,9.816,1.094,507.491,4920.69
+1028,USA,United States,https://flagicons.lipis.dev/flags/4x3/um.svg,2014,11.968,1.981,1081.402,344495.16
+52,AUT,Austria,https://flagicons.lipis.dev/flags/4x3/at.svg,2015,12.407,1.28,632.737,5462.53
+87,BEL,Belgium,https://flagicons.lipis.dev/flags/4x3/be.svg,2015,14.209,1.489,678.971,7654.85
+181,CHE,Switzerland,https://flagicons.lipis.dev/flags/4x3/ch.svg,2015,14.014,1.69,1056.053,8746.65
+203,CZE,Czech Republic,https://flagicons.lipis.dev/flags/4x3/cz.svg,2015,17.323,1.25,421.663,4446.88
+237,DEU,Germany,https://flagicons.lipis.dev/flags/4x3/de.svg,2015,14.31,1.596,765.97,62569.49
+281,DNK,Denmark,https://flagicons.lipis.dev/flags/4x3/dk.svg,2015,6.758,0.698,341.823,1942.75
+303,ESP,Spain,https://flagicons.lipis.dev/flags/4x3/es.svg,2015,17.995,1.649,572.253,26579.83
+326,EST,Estonia,https://flagicons.lipis.dev/flags/4x3/ee.svg,2015,18.22,1.187,343.486,451.82
+364,FIN,Finland,https://flagicons.lipis.dev/flags/4x3/fi.svg,2015,12.546,1.185,501.003,2745.26
+402,FRA,France,https://flagicons.lipis.dev/flags/4x3/fr.svg,2015,14.738,1.631,667.551,44474.96
+424,GBR,United Kingdom,https://flagicons.lipis.dev/flags/4x3/gb.svg,2015,12.057,1.191,497.394,32394.7
+474,GRC,Greece,https://flagicons.lipis.dev/flags/4x3/gr.svg,2015,25.878,2.17,571.913,6188.6
+478,HUN,Hungary,https://flagicons.lipis.dev/flags/4x3/hu.svg,2015,29.215,2.114,558.878,5501.05
+538,IRL,Ireland,https://flagicons.lipis.dev/flags/4x3/ie.svg,2015,12.97,1.007,684.269,3200.21
+543,ISL,Iceland,https://flagicons.lipis.dev/flags/4x3/ic.svg,2015,12.126,1.044,497.84,164.69
+589,ITA,Italy,https://flagicons.lipis.dev/flags/4x3/it.svg,2015,17.932,1.613,601.018,36500.17
+653,KOR,South Korea,https://flagicons.lipis.dev/flags/4x3/kr.svg,2015,21.427,1.584,543.152,27708.87
+695,LTU,Lithuania,https://flagicons.lipis.dev/flags/4x3/lt.svg,2015,26.784,1.745,504.422,1465.3
+720,LUX,Luxembourg,https://flagicons.lipis.dev/flags/4x3/lu.svg,2015,8.601,0.52,586.428,334.03
+727,LVA,Latvia,https://flagicons.lipis.dev/flags/4x3/lv.svg,2015,26.761,1.542,383.852,759.08
+755,MEX,Mexico,https://flagicons.lipis.dev/flags/4x3/mx.svg,2015,27.201,1.595,286.825,36108.67
+773,NLD,Netherlands,https://flagicons.lipis.dev/flags/4x3/nl.svg,2015,7.865,0.841,416.594,7057.07
+836,NOR,Norway,https://flagicons.lipis.dev/flags/4x3/no.svg,2015,7.655,0.764,473.844,2458.59
+870,POL,Poland,https://flagicons.lipis.dev/flags/4x3/pl.svg,2015,20.966,1.33,357.184,13568.14
+894,PRT,Portugal,https://flagicons.lipis.dev/flags/4x3/pt.svg,2015,15.5,1.391,412.877,4276.61
+931,RUS,Russia,https://flagicons.lipis.dev/flags/4x3/ru.svg,2015,22.939,1.286,309.9,44655.62
+946,SVK,Slovakia,https://flagicons.lipis.dev/flags/4x3/sk.svg,2015,26.866,1.85,553.268,3000.82
+960,SVN,Slovenia,https://flagicons.lipis.dev/flags/4x3/si.svg,2015,18.33,1.566,500.567,1032.94
+1008,SWE,Sweden,https://flagicons.lipis.dev/flags/4x3/se.svg,2015,9.851,1.085,518.78,5083.62
+1027,USA,United States,https://flagicons.lipis.dev/flags/4x3/um.svg,2015,12.227,2.068,1162.399,373009.91
+590,ITA,Italy,https://flagicons.lipis.dev/flags/4x3/it.svg,2016,17.831,1.594,604.675,36643.66
+654,KOR,South Korea,https://flagicons.lipis.dev/flags/4x3/kr.svg,2016,20.235,1.553,552.176,28296.65
+774,NLD,Netherlands,https://flagicons.lipis.dev/flags/4x3/nl.svg,2016,8.024,0.843,432.136,7354.27
+835,NOR,Norway,https://flagicons.lipis.dev/flags/4x3/no.svg,2016,7.539,0.789,501.15,2622.48
