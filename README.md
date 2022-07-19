@@ -5,3 +5,14 @@
 >Analysing retail pharmaceutical spending only gives a partial picture of the cost of pharmaceuticals in the health system. Spending on medicines in the hospital sector can be significant – typically accounting for 20% on top of retail spending. Over the last decade, hospital pharmaceutical spending has grown substantially, partly due to the advent of new high-cost treatments, particularly in oncology and immunology.
 
 #plotly #dash #dashboard #Pharmaceutical_Spending #DataVisualization #iti #DataVisualizationITIIntake2
+
+preview dashboard :
+<center>
+<a href="https://ibb.co/pP1pzhY">
+  <img src="https://i.ibb.co/ZJfC82q/1.jpg" alt="1" border="0">
+</a>
+</br>
+<a href="https://ibb.co/YtK9MrT">
+  <img src="https://i.ibb.co/cNp5HmX/2.jpg" alt="2" border="0">
+</a>
+</center>
